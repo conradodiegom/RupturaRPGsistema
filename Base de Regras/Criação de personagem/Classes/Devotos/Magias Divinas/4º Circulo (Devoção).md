@@ -1,0 +1,3 @@
+---
+sticker: lucide//circle-ellipsis
+---

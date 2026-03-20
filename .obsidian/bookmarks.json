@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1773983645593,
+      "path": "Base de Regras"
+    },
+    {
+      "type": "group",
+      "ctime": 1773984206610,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1773984223726,
+          "path": "Base de Regras/Criação de personagem/Poderes/Poderes de Anomalia.md",
+          "title": "Pendente revisão de conceito"
+        },
+        {
+          "type": "file",
+          "ctime": 1773984378571,
+          "path": "Base de Regras/Criação de personagem/Classes/Irregulares/Bardo (possivel descarte).md",
+          "title": "Possivel descarte"
+        }
+      ],
+      "title": "Marcadores de processo"
+    }
+  ]
+}

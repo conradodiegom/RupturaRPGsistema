@@ -1,0 +1,73 @@
+**
+
+Ladinos
+
+  
+
+Bases: NV 2 | NE 6
+
+  
+
+Ladinos os ladrões, assassinos e outras pessoas que se escondem nas sombras por diversos motivos, são lutadores sujos e normalmente cruéis
+
+  
+
+Avançar pelos níveis como um ladino lhe mostrará as vantagens de atirar a honra pela janela, lute sujo seja oportunista e avance em direção a garganta de seus inimigos
+
+  
+
+Perícias: Escolha Duelo ou disparo, Reflexos, Furtividade, e 5 + mente a sua escolha
+
+  
+
+Proficiente em uma arma marcial
+
+  
+
+Oportunista
+
+  
+
+Você sabe muito bem usar as aberturas do inimigo ao seu favor, caso um inimigo saia da sua área de ataque você pode executar um ataque de oportunidade que conta como ataque furtivo
+
+  
+
+Ataque na surdina
+
+  
+
+Caso esteja em furtividade (inimigo desprevenido) pode gastar 2NE para fazer um ataque furtivo, que causa 1d6 de dano extra e tem -2 na margem de ameaça
+
+  
+
+Habilidade base da força
+
+  
+
+Aura básica
+
+  
+
+Você aprende o básico da manipulação de aura podendo gastar 1 NE para envolver seu ataque em aura simples causando 1d4 de dano extra, você pode escolher uma das habilidades abaixo
+
+  
+
+Aura perfurante
+
+Sua aura flui em direção a ponta do seu ataque, você pode gastar +1 NE para ignorar 3 de resistência do inimigo
+
+  
+
+Ruído sensorial
+
+Pode gastar 2 NE para expandir a aura, confundindo os sentidos do inimigo e permitindo que você possa fazer um teste de furtividade a plena vista
+
+  
+
+Salto de aura
+
+  
+
+Gaste 2 NE para poder fazer um salto com o dobro do seu deslocamento
+
+**

@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "39207a727279a531",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e7b3866102becee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd1af3feb1d88da4",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Base de Regras/Núcleo de jogabilidade"
+              },
+              "icon": "lucide-file",
+              "title": "Base de Regras/Núcleo de jogabilidade"
+            }
+          },
+          {
+            "id": "f37e84797dd271a6",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "/"
+              },
+              "icon": "lucide-file",
+              "title": "RupturaRPGsistema"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24fea210ab3810dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "accd74a5bc3d55fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4dce77e1b731893",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "a078c188f53a952a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d41d12d2ec8bc2a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "d87b46ae72f45a4b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "right": {
+    "id": "4a6cfaa2c01f0974",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d3a3695c40b9010",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78b9235c1113164f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "16c035faa62f3ead",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "3ccaa3bb2708ee88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "45715aa5d830f7fc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9edf480874b07572",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "d63d03e150247e68",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "random-note:Abrir nota aleatória": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "cd7564c763baedc8",
+  "lastOpenFiles": [
+    "Base de Regras/Condiçoes.md",
+    "Base de Regras/Base de Regras.md",
+    "Base de Regras/Núcleo de jogabilidade.md",
+    "Base de Regras/Regras do Combate.md",
+    "Base de Regras/Criação de personagem/Classes/Irregulares/Doutor/Progressão do Doutor.md",
+    "Base de Regras/Criação de personagem/Classes/Irregulares/Doutor/O Herbario.md",
+    "Base de Regras/Criação de personagem/Classes/Irregulares/Doutor/Doutor.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Invocador.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Druida.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Magos.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Devir (Antiga aura).md",
+    "Base de Regras/Criação de personagem/Classes/Irregulares/Irregulares.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Mana.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Conceito do Devir.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Lutador.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Barbaro.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Baluarte.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Ladino.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Guerreiro.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Caçador.md",
+    "Base de Regras/Criação de personagem/Classes/Irregulares/Alquimista/Alquimista.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/5º Circulo (Assimilação).md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/4º Circulo (Vontade).md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/3º Circulo (Visão).md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/2º Circulo (Compreensão).md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/1º Circulo (Iniciação).md",
+    "Base de Regras/Equipamento/Artefatos",
+    "Tags",
+    "Base de Regras/Núcleo de jogabilidade",
+    "Base de Regras/Criação de personagem/Pericias",
+    "Base de Regras/Criação de personagem/Untitled.canvas",
+    "Livro das Bestas",
+    "Lore de ruptura",
+    "Base de Regras/Criação de personagem/Classes/Irregulares/Cozinheiro",
+    "Base de Regras/Criação de personagem/Classes/Irregulares/Pecuarista",
+    "Base de Regras/Criação de personagem/Classes/Irregulares/Fazendeiro",
+    "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro"
+  ]
+}
