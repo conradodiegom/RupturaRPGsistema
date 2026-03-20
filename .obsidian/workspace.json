@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "/"
+                "path": "Base de Regras/Criação de personagem/Classes/Mana"
               },
               "icon": "lucide-file",
-              "title": "RupturaRPGsistema"
+              "title": "Mana"
             }
           }
         ]
@@ -205,13 +205,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eeccaad0d6e75bdb",
+  "active": "1f680689b2b73aea",
   "lastOpenFiles": [
-    "Vault.md",
-    "Base de Regras/Base de Regras.md",
-    "Base de Regras/Núcleo de jogabilidade.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Invocador.md",
     "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Guerreiro.md",
+    "Base de Regras/Criação de personagem/Criação de personagem.md",
+    "Base de Regras/Condiçoes.md",
+    "Base de Regras/Núcleo de jogabilidade.md",
     "Base de Regras/Regras do Combate.md",
+    "Vault.md",
+    "Sem título.md",
+    "Base de Regras/Base de Regras.md",
     "Base de Regras/Criação de personagem/Raças/Anões.md",
     "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Barbaro.md",
     "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Caçador.md",
@@ -229,10 +233,6 @@
     "Base de Regras/Equipamento/Economia em Ruptura.md",
     "Base de Regras/Equipamento/Armas.md",
     "Base de Regras/Equipamento/Equipamento.md",
-    "Base de Regras/Equipamento/Artefatos/Artefatos.md",
-    "Base de Regras/Criação de personagem/Pericias.md",
-    "Base de Regras/Criação de personagem/Origens.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Magos.md",
     "Base de Regras/Equipamento/Artefatos",
     "Tags",
     "Base de Regras/Núcleo de jogabilidade",
