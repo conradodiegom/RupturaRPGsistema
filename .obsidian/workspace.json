@@ -11,14 +11,12 @@
             "id": "a90f2e63051abecc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Base de Regras/Regras do Combate.md",
-                "mode": "source",
-                "source": false
+                "path": "/"
               },
               "icon": "lucide-file",
-              "title": "Regras do Combate"
+              "title": "RupturaRPGsistema"
             }
           }
         ]
@@ -207,10 +205,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a90f2e63051abecc",
+  "active": "eeccaad0d6e75bdb",
   "lastOpenFiles": [
-    "Base de Regras/Criação de personagem/Raças/Anões.md",
+    "Vault.md",
+    "Base de Regras/Base de Regras.md",
+    "Base de Regras/Núcleo de jogabilidade.md",
     "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Guerreiro.md",
+    "Base de Regras/Regras do Combate.md",
+    "Base de Regras/Criação de personagem/Raças/Anões.md",
     "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Barbaro.md",
     "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Caçador.md",
     "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Conceito do Devir.md",
@@ -218,7 +220,6 @@
     "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/1º Circulo (Iniciação).md",
     "Base de Regras/Equipamento/Armaduras.md",
     "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/4º Circulo (Vontade).md",
-    "Base de Regras/Núcleo de jogabilidade.md",
     "Base de Regras/Criação de personagem/Classes/Irregulares/Conceito de Irregular.md",
     "Base de Regras/Criação de personagem/Classes/Irregulares/Alquimista/Alquimista.md",
     "Base de Regras/Criação de personagem/Classes/Irregulares/Bruxo/Bruxo.md",
@@ -232,9 +233,6 @@
     "Base de Regras/Criação de personagem/Pericias.md",
     "Base de Regras/Criação de personagem/Origens.md",
     "Base de Regras/Criação de personagem/Classes/Mana/Magos.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Druida.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Invocador.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Mana.md",
     "Base de Regras/Equipamento/Artefatos",
     "Tags",
     "Base de Regras/Núcleo de jogabilidade",
