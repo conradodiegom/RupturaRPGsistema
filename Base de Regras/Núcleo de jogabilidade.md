@@ -5,8 +5,8 @@ sticker: emoji//1f3b2
 As regras que regem o mundo, no papel
 
   
-
-Sets de Dados:
+<h1><center>
+Sets de Dados:</center></h1>
 
   
 
@@ -14,28 +14,24 @@ Ruptura pode ser jogado com 2 sets de dados diferentes, sendo eles os 2d10 que s
 
   
 
-- Os 2d10:
+## - Os 2d10:
     
 
- Como dito anteriormente o padrão para o sistema, na regra geral você joga os dois dados e soma os resultados dos 2d10 antes de somar seus outros bônus.
+ Como dito anteriormente o padrão para o sistema, na regra geral você joga os dois dados e soma os resultados dos **2d10** antes de somar seus outros bônus.
+EX: **2d10** são lançados, um para em **5** e o outro em **9**, o resultado da rolagem é **14**.
 
-EX: 2d10 são lançados, um para em 5 e o outro em 9, o resultado da rolagem é 14.
+ Em caso de <font color="#2DC26B" >vantagem</font> você ganha **1d10** adicional e agora soma os **2 maiores** resultados nos 3d10 lançados.
+
+EX: os **3d10** são lançados os resultados são **3**, **9** e **2**, o **2** é descartado somando **9** e **3**, o resultado da rolagem é **12**
+
+  
+Já em caso de **<font color="#c00000">desvantagem</font>**, **1d10** é adicionado da mesma forma, porém dessa vez os **2  menores** resultados serão somados
+
+EX: os **3d10** são lançados novamente os resultados são **3**, **9** e **5**, o **9** é descartado somando **5** e **3**, o resultado da rolagem é **8**
 
   
 
- Em caso de vantagem você ganha 1d10 adicional e agora soma os 2 maiores resultados nos 3d10 lançados.
-
-EX: os 3d10 são lançados os resultados são 3, 9 e 2, o 2 é descartado somando 9 e 3, o resultado da rolagem é 12
-
-  
-
- Já em caso de desvantagem, 1d10 é adicionado da mesma forma, porém dessa vez os 2  menores resultados serão somados
-
-EX: os 3d10 são lançados novamente os resultados são 3, 9 e 5, o 9 é descartado somando 5 e 3, o resultado da rolagem é 8
-
-  
-
-Os críticos de dado 2d10
+Os críticos de dado **2d10**
 
   
 
@@ -43,7 +39,7 @@ Como tirar 1 ou 10 em ambos os dados é extremamente improvável, no caso de doi
 
   
 
-No caso de dois 1 ser seu resultado, parabéns pela falha insuperável, o padrão é todo o dano que seria causado voltar ao remetente e a arma quebrar ou ficar com a condição Aetérico  por 1 rodada, em casos de perícias para rp, é seu plano sair espetacularmente pela culatra, sendo normalmente pior (e mais engraçado) que uma falha miserável padrão
+No caso de dois 1 ser seu resultado, parabéns pela falha insuperável, o padrão é todo o dano que seria causado voltar ao remetente e a arma quebrar ou ficar com a condição [[Base de Regras/Condiçoes.md|Aetérico]]  por 1 rodada, em casos de perícias para rp, é seu plano sair espetacularmente pela culatra, sendo normalmente pior (e mais engraçado) que uma falha miserável padrão
 
   
 
@@ -52,15 +48,15 @@ No caso de dois 1 ser seu resultado, parabéns pela falha insuperável, o padrã
 
  O dado padrão do rpg, seguindo as regras padrão da maioria dos rpgs
 
- Em casos de vantagem, um dado é adicionado, pegando assim o maior resultado entre os dois dados lançados  
+ Em casos de <font color="#9bbb59">vantagem</font>, um dado é adicionado, pegando assim o maior resultado entre os dois dados lançados  
 
-EX: Os dois dados são lançados culminando em um 17 e um 11 o resultado da rolagem é 17
+EX: Os dois dados são lançados culminando em um **17** e um **11** o resultado da rolagem é 17
 
   
 
- Em casos de desvantagem, um dado é adicionado, pegando assim o menor resultado entre os dois dados lançados  
+ Em casos de <font color="#c00000">desvantagem</font>, um dado é adicionado, pegando assim o menor resultado entre os dois dados lançados  
 
-EX: Os dois dados são lançados culminando em um 17 e um 11 o resultado da rolagem é 11
+EX: Os dois dados são lançados culminando em um **17** e um **11** o resultado da rolagem é **11**
 
   
 
