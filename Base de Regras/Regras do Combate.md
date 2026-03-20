@@ -104,7 +104,7 @@ Os tipos de dano
 
   
 
-Espectro Físico
+## Espectro Físico
 
 São os danos naturais, causados pelo mais puro físico
 
@@ -122,7 +122,7 @@ São os danos naturais, causados pelo mais puro físico
 
   
 
-Não físico
+## Não físico
 
 Esses danos podem vir de fontes naturais, porém podem ser causados também por Éter ou Mana (Mencionado em regras como dano Arcano), Aura normalmente causa um dano próprio, mas caso cause dano físico o mesmo conta como não físico para propósitos de resistência
 
