@@ -43,7 +43,7 @@ No caso de dois 1 ser seu resultado, parabéns pela falha insuperável, o padrã
 
   
 
-- O D20
+## - O D20
     
 
  O dado padrão do rpg, seguindo as regras padrão da maioria dos rpgs
@@ -74,7 +74,7 @@ Caso um 1 seja atingido ele se comporta como uma falha miserável comum
 
 **— — — — — — // — — — — — — — — — // — — — — — — — — — // — — — — — —**
 
-Acertos Críticos e Falhas miseráveis 
+ <center><h1>Acertos Críticos e Falhas miseráveis</h1></center>
 
 Em Ruptura, um Acerto Crítico é quando uma ação é executada de maneira impecável fazendo coisas além do esperado a depender da situação
 
@@ -102,13 +102,11 @@ uma Falha Miserável acontece caso falhe a DT por 9 ou mais acaba o efeito é de
 
   
 
-Dificuldade de Testes:
+<center><h1>Dificuldade de Testes:</h1></center>
 
 Os valores aqui mostrados são exemplos, adapte de acordo com a mesa
 
-  
-
-Trivial 5: são testes que não são nem necessários, um jogador simplesmente passa neles, como abrir uma porta 
+  Trivial 5: são testes que não são nem necessários, um jogador simplesmente passa neles, como abrir uma porta 
 
   
 
@@ -132,11 +130,11 @@ Impossível 35+ 
 
   
 
-**— — — — — — // — — — — — — — — — // — — — — — — — — — // — — — — — —**
+**— — — — — — — // — — — — — — — — — // — — — — — — — — — // — — — — — — —**
 
   
 
-Perícias
+<center><h1>Perícias</h1></center>
 
 As perícias, as muitas habilidades na qual um aventureiro pode ser treinado, as mesmas concedem bônus em testes que se conectem a elas de alguma forma
 
@@ -144,10 +142,9 @@ O cálculo para o bônus em uma perícia sempre será:
 
   
 
-Nível/2 + Atributo da perícia + Treinamento na perícia + extras
+**Nível/2 + Atributo da perícia + Treinamento na perícia + extras**
 
   
-
 Para facilitar vamos a um exemplo:
 
  Um guerreiro nível 2 quer atacar uma Rastejadora de catacumbas com sua espada longa que tem sua armadura como 17, esse guerreiro tem 3 de Corpo e é treinado com +2 na perícia de duelo (utilizado para atacar) e para deixar mais fácil irá usar foco em batalha que concede +2 nos acertos,
@@ -156,7 +153,7 @@ Com tudo isso o guerreiro terá um total de +8 para acertar o inimigo precisando
 
   
 
--  Treinamentos em perícias
+## -  Treinamentos em perícias
     
 
   
@@ -169,49 +166,33 @@ Conforme seu nível aumenta seu treinamento também melhora, seguindo as regras 
 
 Valor inicial do treinamento em perícias 
 
-  
-
 +5 
 
 No 4° nível aprimore uma quantidade de perícias igual a sua Mente em +5 e aprimore mais uma a cada 2 níveis
 
-  
-
 +7
 
 No 8° nível aprimore uma quantidade de perícias que tenham bônus de +5 igual a sua Mente em +7 e aprimore mais uma a cada 2 níveis
-
-  
 
 +10
 
 No 14° nível aprimore uma quantidade de perícias que tenham bônus de +7 igual a sua Mente em +10 e aprimore mais uma a cada 2 níveis
 
   
-  
-  
 
 **— — — — — — // — — — — — — — — — // — — — — — — — — — // — — — — — —**
 
   
-  
-
-Dificuldade de Testes (DT)
+<center><h1>Dificuldade de Testes (DT)</h1></center>
 
   
-
 A DT é o valor que define quanto é necessário para passar em um teste, diversas habilidades vão solicitar a DT de certa perícia do player, chegando ao seguinte cálculo:
 
-  
-
 Nível + Treinamento na Perícia + Atributo da perícia + Condição de Descanso + Extras
-
-  
 
 Fazendo esse cálculo chegaremos a dt para o teste, para facilitar vejamos um exemplo:
 
   
-
 Um bárbaro usa sua habilidade Grito de Guerra fazendo assim com que seja necessário um teste de vontade contra sua DT de intimidação, esse bárbaro é de nível 3, Tem +5 de treinamento em intimidação e 2 espírito, ele está revigorado pois acabou de descansar em uma boa taverna e não possui a habilidade de anomalia aberração
 
 Sendo assim temos 3 + 5 + 2 + 2 (do revigorado) e por fim +3 da aberração resultando em uma DT de 15, um goblin caçador com seus incríveis 0 de vontade precisaria tirar 15 ou mais nos dados para passar no teste
@@ -221,10 +202,8 @@ Sendo assim temos 3 + 5 + 2 + 2 (do revigorado) e por fim +3 da aberração resu
 **— — — — — — // — — — — — — — — — // — — — — — — — — — // — — — — — —**
 
   
-
-Tamanho e Espaços Ocupados e Modificações por tamanho:
-
-  
+<center><h1>Tamanho e Espaços Ocupados e Modificações por tamanho:</h1>
+</center>
 
 - Minúsculo: nulo
     
@@ -253,7 +232,7 @@ não pode usar armas de 2 mãos, usa armas de uma mão como de 2
 
 Nada muda
 
-  
+
 
 - Grande: 4
     
@@ -299,7 +278,7 @@ Regras variam
 
   
 
-Atributos e Efeitos de Atributo
+<center><h1>Atributos e Efeitos de Atributo</h1></center>
 
   
 
@@ -416,10 +395,9 @@ Cada 2 níveis em Celeridade concedem 1,5m de deslocamento básico.
     
 - -2 → Aleijado;
     
-- -3 → Tetraplegico.
+- -3 → Tetraplégico.
     
 
-  
 
 Espírito
 
@@ -460,7 +438,7 @@ Cada 2 níveis em Espírito concedem +1 em Iniciativa e Reflexos. 
 
   
 
-Nível de vitalidade e Nível de energia
+<center><h1>Nível de vitalidade e Nível de energia</h1></center>
 
 São o que define se você está vivo e pode fazer ações exigentes de energia, seguem alguns cálculos por classe
 
@@ -488,7 +466,7 @@ Funcionam como os temporários, porém, quando desaparecem travam o total de NV 
 
   
 
-ND o nível de defesa
+<center><h1>ND o nível de defesa</h1></center>
 
   
 
@@ -516,7 +494,7 @@ Caso esteja com excesso de peso, ou usando armadura pesada, perde o bônus de ce
 
   
 
-Descanso e Interlúdio
+<center><h1>Descanso e Interlúdio</h1></center>
 
   
 
