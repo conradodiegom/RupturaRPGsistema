@@ -55,7 +55,7 @@ Gambiarreiros:
 - Mestre do incerto
     
 - Engenheiro do absurdo
-    
+
 
   
 

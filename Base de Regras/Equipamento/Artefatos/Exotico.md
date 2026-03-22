@@ -1,15 +1,16 @@
 **
 
--Armadura Extra Acolchoada
+Armadura Extra Acolchoada
 
--Grande lança do churrasqueiro 
+Grande lança do churrasqueiro 
 
--Escudo de domingo
+Escudo de domingo
 
--Garrafa de kobolds
+Garrafa de kobolds
 
--Colar de gatos
+Colar de gatos
 
--Mimicolher
+Mimicolher
 
-**
+### Tixa postiça
+Ganha a habilidade [[Base de Regras/Criação de personagem/Raças/Lizard Folks.md|Largar a tixa]] dos lizardfolks lagarto, sem a desvantagem de vida ou observações, mas quebra no primeiro uso.

@@ -1,0 +1,2 @@
+A Primeira era, o nascimento dos 10 Deuses da terra deu o inicio a esse período
+Marca desde o ano 0 até 5793 ano de execução da ruptura devido a tentativa dos Avarpaimas tentarem modificar a geografia para alcançar a mesa dos deuses os registros datam 
