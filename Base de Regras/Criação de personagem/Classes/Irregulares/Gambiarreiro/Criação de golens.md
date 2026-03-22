@@ -38,10 +38,26 @@ Por ser um material simples e sempre visto, golens de madeira podem fazer testes
 Você recebe dano dobrado de fogo, e não consegue se livrar sozinho da condição em chamas
 #### Golem de pedra
 
+**O Golem básico** 
+Por ser feito de pedra tem IP 5 a Corte e 2 a Perfuração e ele ganha a ação de ataque Rocha Das Eras: o golem se torna uma esfera e se desloca o dobro de seu deslocamento e dá Xd6 de dano em tudo em seu caminho (o X é de acordo com o atributo corpo) você só para no fim do deslocamento e recebe 1d4 de dano sempre que acerta algo considerado resistente (paredes, pedras, metais, (OBS caso acerte outro golem de pedra rolando o movimento se reinicia dobrando o dano))
+
+**Absurdamente minerável**
+Recebe dano dobrado de impacto ou picaretas. (**AFUNDA**)
 #### Golem de cristal
 
+**Catalisador de energia**
+Toda habilidade advinda do seu núcleo tem o dano aumentado pelo seu modificador de mente, bônus também somam mente
+
+**Ostentar**
+O custo para reparar um golem de cristal é dobrado
 #### Golem de metal
 
-#### Golem de argila
+**Fortaleza ambulante**
+Um golem feito de puro metal ganhando IP 5 a dano físico e 2 a dano magico, o mesmo pode fazer a ação bloquear 2 vezes por rodada
 
+**Pesado e metálico** 
+Se move somente a metade do deslocamento padrão e recebe dano elétrico dobrado além de afundar instantaneamente 
+#### Golem de argila
+**Facilmente moldável**
+Argila e suas múltiplas utilidades, um golem de argila é capaz de realocar sua estaticista de corpo para outras características, além disso imitam a arma utilizada na rodada anterior a sua própria e podem fazer um ataque com ela
 #### Golem de tecido
