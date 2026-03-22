@@ -1,19 +1,12 @@
 ---
 sticker: lucide//circle
 ---
-**
-
 Conhecido como o círculo da iniciação, é formado ao redor de um dos pulsos do mago, normalmente da mão dominante, marca o início do aprendizado do conjurador, tem formas diferentes entre magos, druidas e invocadores, mas independente da forma, é o que permite direcionar a mana nos caminhos que deseja
 
   
-
 Tem um gasto padrão de 1 NE
 
-  
-
 Magias desse círculo
-
-  
 
 Flecha de vento
 

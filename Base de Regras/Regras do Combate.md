@@ -1,6 +1,4 @@
-**
-
-Ações em combate
+<center><h1>Ações em combate</h1></center>
 
 O padrão em ruptura é que em seus turnos cada jogador tenha um ação padrão e uma ação rápida e quantas ações livres precisar, e quando não é seu turno o mesmo tem direito a 1 reação de defesa (Fazer um teste de resistência não conta nesse limite)
 
@@ -16,7 +14,7 @@ Ações livres: Falar (mas não muito), ações simples a ponto de não precisam
 
   
 
-Ações de Defesa:
+<center><h1>Ações de Defesa:</h1></center>
 
   
 
@@ -52,7 +50,7 @@ Ao ser atacado e o inimigo errar o ataque pode fazer um ataque contra o mesmo
 
   
 
-Manobras de Combate
+<center><h1>Manobras de Combate</h1></center>
 
   
 
@@ -84,7 +82,7 @@ Focar:
 
   
 
-Imunidades
+<center><h1>Imunidades</h1></center>
 
   
 
@@ -95,7 +93,7 @@ Existem diferentes níveis de imunidade, os quais também são contados de forma
 - Imunidade Parcial (IP): Essas são imunidades numeradas, as quais você ignora uma parcela específica de dano. Por exemplo, IP 10 significa que do dano total recebido, 10 pontos são ignorados. Ela funciona igual IT.
     
 
-  
+   
 
 - Imunidade Total (IT): Essas são imunidades que ignoram totalmente dano oriundo de qualquer fonte, seja ela mundana ou mágica. Por exemplo, IT Eletricidade significa que qualquer dano de eletricidade, seja de um raio ou de um sopro de um, é ignorado.
     
@@ -106,7 +104,7 @@ Os tipos de dano
 
   
 
-Espectro Físico
+## Espectro Físico
 
 São os danos naturais, causados pelo mais puro físico
 
@@ -124,7 +122,7 @@ São os danos naturais, causados pelo mais puro físico
 
   
 
-Não físico
+## Não físico
 
 Esses danos podem vir de fontes naturais, porém podem ser causados também por Éter ou Mana (Mencionado em regras como dano Arcano), Aura normalmente causa um dano próprio, mas caso cause dano físico o mesmo conta como não físico para propósitos de resistência
 
@@ -159,5 +157,3 @@ Esses danos podem vir de fontes naturais, porém podem ser causados também por 
   
 
 . Sombra
-
-**

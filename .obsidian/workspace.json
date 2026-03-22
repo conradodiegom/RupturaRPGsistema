@@ -32,9 +32,24 @@
               "icon": "lucide-file",
               "title": "Condiçoes"
             }
+          },
+          {
+            "id": "cd0783c34a63d292",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Base de Regras/Equipamento/Armaduras.md",
+                "bFile": "Base de Regras/Equipamento/Armaduras.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Armaduras  (Index)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,11 +235,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f37e84797dd271a6",
+  "active": "cd0783c34a63d292",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Base de Regras/Condiçoes.md",
     "Base de Regras/Untitled.md",
     "Vault.md",
-    "Base de Regras/Condiçoes.md",
     "Base de Regras/Base de Regras.md",
     "Base de Regras/Núcleo de jogabilidade.md",
     "Base de Regras/Regras do Combate.md",
@@ -247,7 +263,6 @@
     "Base de Regras/Criação de personagem/Classes/Irregulares/Alquimista/Alquimista.md",
     "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/5º Circulo (Assimilação).md",
     "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/4º Circulo (Vontade).md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/3º Circulo (Visão).md",
     "Base de Regras/Equipamento/Artefatos",
     "Tags",
     "Base de Regras/Núcleo de jogabilidade",
