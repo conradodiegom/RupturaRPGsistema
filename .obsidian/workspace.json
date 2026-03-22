@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base de Regras/Untitled.md",
+                "file": "Base de Regras/Condiçoes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Condiçoes"
             }
           }
         ],
@@ -88,7 +88,7 @@
             }
           },
           {
-            "id": "a308e46753860a5e",
+            "id": "65ce0ac514c54918",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
