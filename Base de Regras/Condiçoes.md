@@ -101,9 +101,9 @@ São condições provenientes dos elementos, fogo, gelo, trovão, entre outras
 - Em Chamas
   Você está atualmente pegando fogo, isso causa 1d6 de dano de fogo por turno até que use uma ação padrão para se apagar
 - Carbonizado
-  O ferimento que essas queimaduras estão causando é maior, você passa a se tornar vulnerável a dano de fogo e caso suas feridas sejam atingidas recebe 1d6 de dano extra, só pode ser curado por remedios e magias potentes
--
+  O ferimento que essas queimaduras estão causando é maior, você passa a se tornar vulnerável a dano de fogo e caso suas feridas sejam atingidas recebe 1d6 de dano extra, só pode ser curado por remédios e magias potentes
 - Queimadura Gélida
+  O gelo está causando queimaduras causando 2d4 de dano de frio por turno durante 1d6 turnos e deixando seus reflexos mais lentos (-2 de reflexos)
 
 - Congelado
 

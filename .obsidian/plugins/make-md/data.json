@@ -43,7 +43,6 @@
     "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Pericias",
     "/",
     "//Base de Regras/Base de Regras/Núcleo de jogabilidade",
-    "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes",
     "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Mana/Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas",
     "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Irregulares/Base de Regras/Criação de personagem/Classes/Irregulares/Doutor",
     "//Lore de ruptura",
@@ -59,7 +58,8 @@
     "//Base de Regras",
     "//Base de Regras/Base de Regras/Criação de personagem",
     "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Irregulares/Base de Regras/Criação de personagem/Classes/Irregulares/Fazendeiro",
-    "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Raças"
+    "//Base de Regras/Base de Regras/Equipamento",
+    "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Irregulares/Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
