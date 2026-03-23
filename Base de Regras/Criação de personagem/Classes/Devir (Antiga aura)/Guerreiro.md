@@ -27,9 +27,9 @@ A progressão do guerreiro se dá do seguinte modo
 
   
 
-|                     |                                                                    |     |     |     |
-| ------------------- | ------------------------------------------------------------------ | --- | --- | --- |
+
 | Niveis de Guerreiro |                                                                    |     |     |     |
+| ------------------- | ------------------------------------------------------------------ | --- | --- | --- |
 | 1° Nivel            | Foco para batalha, Segura Firme                                    |     |     |     |
 | 2° Nivel            | Aura básica, habilidade de aura, habilidade de classe              |     |     |     |
 | 3° Nivel            | Caminho de guerreiro - primeiro passo, habilidade geral, perícia   |     |     |     |
