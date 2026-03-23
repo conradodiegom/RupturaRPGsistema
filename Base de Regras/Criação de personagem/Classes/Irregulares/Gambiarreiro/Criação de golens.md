@@ -123,7 +123,7 @@ Escolha uma magia de primeiro circulo do elemento de seu núcleo, a partir de ag
 
 **Golem ornamental** **<font color="#c00000">custo 2</font> 
 
-Seu golem é estupendo, uma das maravilhas de morghal, você tem vantagem em todos os testes de diplomacia, enganação, furtividade ou crime porém precisa fazer um teste DT 20 para arrumar seu golem toda vez, ele pode ser magnifico, mas não é muito cooperativo com a ideia de grandeza
+Seu golem é estupendo, uma das maravilhas de **Morghal**, você tem vantagem em todos os testes de diplomacia, enganação, furtividade ou crime porém precisa fazer um teste DT 20 para arrumar seu golem toda vez, ele pode ser magnifico, mas não é muito cooperativo com a ideia de grandeza
 
 **Membros estendidos** <font color="#c00000">custo 1</font> 
 Os braços de seu golem são maiores que o normal, aumentando o alcance dos mesmos em um passo
@@ -140,3 +140,6 @@ Você pode usar seu golem como uma montaria, ele reduz o tempo de viagem pela me
 
 **Papagaio** <font color="#c00000">custo 0</font> 
 rode 1d12, o numero que sair será a quantia de palavras que o golem aprende, escolha com cuidado (o mestre escolhe metade) caso caia 1 no período entre sessões ou o jogador ou o mestre deve ser executado
+
+**Sentidos conectados** <font color="#c00000">custo 2</font>
+Você se torna capaz de usar seus sentidos a partir do golem, compartilhando - os pelos olhos do golem, vendo, ouvindo, saboreando e até mesmo cheirando a partir desse ponto
