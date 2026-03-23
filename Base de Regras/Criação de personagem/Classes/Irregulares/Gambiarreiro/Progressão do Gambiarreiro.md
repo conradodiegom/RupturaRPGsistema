@@ -60,11 +60,25 @@ Sempre que seu artefato quebrar você ira melhorar o mesmo ao consertar aumentan
 
 ## Os Caminhos de Gambiarreiro
 
-Escultor de Golens
+#### Escultor de Golens
+**Primeiro passo:**
+**Melhoria autônoma**: A cada nível a partir desse seu golem ganha algumas de coisas 2 em dois niveis seguindo a progressão da tabela abaixo de acordo com o corpo do golem
+
+| Nivel | Pedra | Metal | Carne                              | Cristal | Madeira | Tecido        | Argila |     |
+| ----- | ----- | ----- | ---------------------------------- | ------- | ------- | ------------- | ------ | --- |
+| 3°    |       |       | 1 Habilidade de uma raça aleatória |         |         | +1 boneca     |        |     |
+| 5°    |       |       | +1 Corpo                           |         |         | +1 Corpo      |        |     |
+| 7°    |       |       | 1 Habilidade de classe aleatória   |         |         | +1 boneca     |        |     |
+| 9°    |       |       | +1 Corpo                           |         |         | +1 Celeridade |        |     |
+| 11°   |       |       | 1 Habilidade de uma raça aleatória |         |         | +1 boneca     |        |     |
+| 13°   |       |       | +1 Corpo                           |         |         | +1 Mente      |        |     |
+| 15°   |       |       | 1 Habilidade de classe aleatória   |         |         | +1 boneca     |        |     |
+| 17°   |       |       | +1 Corpo                           |         |         | +1 Corpo      |        |     |
+| 19°   |       |       | 1 Habilidade de uma raça aleatória |         |         | +1 boneca     |        |     |
+
+#### Mestre do incerto
     
-Mestre do incerto
-    
-Engenheiro do absurdo
+#### Engenheiro do absurdo
 
 
 
