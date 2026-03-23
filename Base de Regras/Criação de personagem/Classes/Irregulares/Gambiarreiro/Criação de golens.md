@@ -4,15 +4,15 @@ Para criar um golem primeiro precisamos decidir 3 características sendo elas Co
 
 #### Corpos dos golens
 
-| Nome    | Atributos         | Custo |
-| ------- | ----------------- | ----- |
-| Carne   | Co: 3 Ce: 1 Me: 0 | 1     |
-| Madeira | Co: 1 Ce: 2 Me: 1 | 1     |
-| Pedra   | Co: 3 Ce: 0 Me: 1 | 1     |
-| Cristal | Co: 1 Ce: 1 Me: 3 | 2     |
-| Metal   | Co: 4 Ce: 0 Me: 2 | 3     |
-| Argila  | Co: 2 Ce: 1 Me: 1 | 1     |
-| Tecido  | Co: 0 Ce: 2 Me: 1 | 0     |
+| Nome    | Atributos         | Custo | Tamanho |
+| ------- | ----------------- | ----- | ------- |
+| Carne   | Co: 3 Ce: 1 Me: 0 | 1     | Medio   |
+| Madeira | Co: 1 Ce: 2 Me: 1 | 1     | Medio   |
+| Pedra   | Co: 3 Ce: 0 Me: 1 | 1     | Grande  |
+| Cristal | Co: 1 Ce: 1 Me: 3 | 2     | Medio   |
+| Metal   | Co: 4 Ce: 0 Me: 2 | 3     | Grande  |
+| Argila  | Co: 2 Ce: 1 Me: 1 | 1     | Medio   |
+| Tecido  | Co: 0 Ce: 2 Me: 1 | 0     | Pequeno |
 Os NV dos golens segue a seguinte formula 
 (Corpo + 1) * 4
 (OBS: Caso sejam advindos da habilidade [[Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Progressão do Gambiarreiro.md|invenção de assinatura]] multiplicam o total por 1/2 o nível do Gambiarreiro arredondado para baixo não pode ser menor que 1)
@@ -119,7 +119,7 @@ Escolha uma magia de primeiro circulo do elemento de seu núcleo, a partir de ag
 
 **Output máximo** **<font color="#c00000">custo 7</font> 
 
-"VAI ESTABILIZAR", escolha uma magia de segundo circulo do elemento do seu núcleo, a partir de agora ele sabe está magia, o mago teve um infarto fulminante, você cogitou a possibilidade do mago estar certo, que Ebissu o tenha
+"VAI ESTABILIZAR", escolha uma magia de segundo circulo do elemento do seu núcleo, a partir de agora ele sabe esta magia, o mago teve um infarto fulminante, você cogitou a possibilidade do mago estar certo, que Ebissu o tenha
 
 **Golem ornamental** **<font color="#c00000">custo 2</font> 
 

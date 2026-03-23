@@ -50,3 +50,7 @@ Desde o inicio de sua carreira você vem se dedicando a mesma invenção, ela é
 
 Essa é a sua invenção, uma extensão de você.
 Por ter gasto tudo o que tinha pode melhorar a mesma como um esforço extra, gastando 2 ND para aumentar certos atributos da sua invenção, sendo eles +2 em qualquer dano, NV, ou ND do item em questão
+
+### Foco em amigos
+
+### Foco em tralhas
