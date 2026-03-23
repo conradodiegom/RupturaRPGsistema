@@ -1,6 +1,6 @@
 A Criação de golens é uma arte antiga (e encarada com maus olhos em certos casos) explorada até os dias de hoje por múltiplos gambiarreiros e alguns magos não ortodoxos
 
-Para criar um golem primeiro precisamos decidir 3 características sendo elas Corpo, Núcleo e Função e depois adicionando mais características não essenciais como cuspir fogo ou cozinhar
+Para criar um golem primeiro precisamos decidir 3 características sendo elas Corpo, Núcleo e depois adicionando mais características não essenciais como cuspir fogo ou cozinhar
 
 #### Corpos dos golens
 
@@ -87,13 +87,56 @@ Cura 1d8 de um aliado, caso ele esteja com uma *doença* impede que ela avance p
 **Espirito em chamas**
 Incendeia a si mesmo recebendo dano de fogo igual a seu atributo corpo + 1, para causar 1d6 de dano de fogo e a condição em chamas em um oponente
 #### Núcleo de Terra:
-
+**Montanha**
+pode gastar sua ação de movimento para dobrar suas resistências mas se torna incapaz de se mover
 #### Núcleo de Vento:
-
+**Impulso dos ventos**
+Pode gastar a ação completa para se arremessar em direção ao inimigo causando 1d6 de dano para cada 3M deslocados, o alvo precisa fazer um teste de fortitude, caso passe ambos recebem metade do dano e ficam atordoados, caso não passe apenas recebe o dano completo e evita a condição
 #### Núcleo de Raio:
-
-
+**Descarga de bateria**
+Ao inicio de cada um de seus turnos decide usar uma ação de movimento ou padrão para carregar um ataque elétrico (pode escolher não carregar porém perde o que foi carregado anteriormente) caso gaste a ação padrão ganha +1d6 de carga caso seja a ação de movimento acumula +1d4
+Quando decidir descarregar faça um ataque padrão corpo a corpo do golem e adicione todos os bônus acumulados (gastando os mesmos) e o golem fica inconsciente. 
 ### Melhorias para golem
 
 **Repartir espirito**  **<font color="#c00000">custo 1</font>**
 Divide os golens em 2 e divide os atributos deles entre os dois, e as condições dos mesmos são conectadas (Você deve pagar pelo corpo extra)
+
+**Golem reforçado**  **<font color="#c00000">custo 1</font>
+
+Aumenta o atributo corpo de um golem em 1 e a ND em 4, mas também adiciona 3 para a dt do conserto e aumenta seu custo em 1/4
+
+**Arma golem** **<font color="#c00000">custo 1</font> 
+
+Escolha uma arma marcial corpo a corpo e entregue ao golem, ele definitivamente ficará feliz
+
+**Artilharia golem** **<font color="#c00000">custo 2</font> 
+
+Escolha uma arma marcial a distancia e entregue ao golem, ele definitivamente ficará feliz e seguro, você nem um pouco
+
+**Sinergia com o núcleo** **<font color="#c00000">custo 2</font> 
+
+Escolha uma magia de primeiro circulo do elemento de seu núcleo, a partir de agora ele sabe esta magia, o mago o aconselhou a ponderar sobre essa ideia, você o chamou de imbecil e mandou ele a merda
+
+**Output máximo** **<font color="#c00000">custo 7</font> 
+
+"VAI ESTABILIZAR", escolha uma magia de segundo circulo do elemento do seu núcleo, a partir de agora ele sabe está magia, o mago teve um infarto fulminante, você cogitou a possibilidade do mago estar certo, que Ebissu o tenha
+
+**Golem ornamental** **<font color="#c00000">custo 2</font> 
+
+Seu golem é estupendo, uma das maravilhas de morghal, você tem vantagem em todos os testes de diplomacia, enganação, furtividade ou crime porém precisa fazer um teste DT 20 para arrumar seu golem toda vez, ele pode ser magnifico, mas não é muito cooperativo com a ideia de grandeza
+
+**Membros estendidos** <font color="#c00000">custo 1</font> 
+Os braços de seu golem são maiores que o normal, aumentando o alcance dos mesmos em um passo
+
+**Protocolo de emergência** <font color="#c00000">custo 3</font> 
+Você sempre tem um plano B, caso seu golem seja destruído em combate pode levantar o mesmo com metade da sua vida completa e com um turno diretamente após o seu
+
+**Situações desesperadoras** <font color="#c00000">custo 3</font> 
+Pedem medidas desesperadas, hora do plano C, caso seu golem esteja com 1/4 da vida total pode iniciar a destruição de seu núcleo causando sua vida máxima como dano de seu núcleo
+(caso seja sua invenção assinatura o gambiarreiro fica exausto por 2 descansos longos)
+
+**Golem de viagem** <font color="#c00000">custo 1</font> 
+Você pode usar seu golem como uma montaria, ele reduz o tempo de viagem pela metade e pode levar um numero de pessoas igual a seu corpo
+
+**Papagaio** <font color="#c00000">custo 0</font> 
+rode 1d12, o numero que sair será a quantia de palavras que o golem aprende, escolha com cuidado (o mestre escolhe metade)
