@@ -11,17 +11,54 @@
             "id": "a90f2e63051abecc",
             "type": "leaf",
             "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro"
+              },
+              "icon": "lucide-file",
+              "title": "Gambiarreiro"
+            }
+          },
+          {
+            "id": "87f7fc6b96332745",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
+            }
+          },
+          {
+            "id": "7e186ea10843216f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/GetStarted.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/GetStarted.md"
+            }
+          },
+          {
+            "id": "aef9a5ab5b9b7634",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Base de Regras/Núcleo de jogabilidade.md",
+                "file": "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Criação de golens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Núcleo de jogabilidade"
+              "title": "Criação de golens"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -75,7 +112,7 @@
             }
           },
           {
-            "id": "05bade06f98ad0b1",
+            "id": "e176b55e4525d3fb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -207,44 +244,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a90f2e63051abecc",
+  "active": "aef9a5ab5b9b7634",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Base de Regras/Criação de personagem/Criação de personagem.md",
+    "Base de Regras/Núcleo de jogabilidade.md",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos/Os primogênitos.md",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos/Os Primadis (Plantas).md",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos/Os Perbasahs (Coisas d'agua).md",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos/Os Nishpaks (Duendes).md",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos/Os Muafulus (Aves).md",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos/Os Kertamas (Artropodes).md",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos/Os Gusters (Répteis).md",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos/Os Garginos (Monstros).md",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos/Os Exousires (Dragões).md",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos/Os Caelestus (Celestiais).md",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos/Os Elfengin (Elementais).md",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos/Os Berlutamas (Mamiferos).md",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos/Os Bergeurats (Leviatãs).md",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos/Os Avarpaimas (Gigantes).md",
+    "Lore de ruptura/As 3 Grandes Eras/Era das Consequencias/Era das Consequencias.md",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Era da Formação.md",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Ascensão/Era da Ascensão.md",
+    "Lore de ruptura/As 3 Grandes Eras/Era das Consequencias",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Formação",
+    "Lore de ruptura/As 3 Grandes Eras/Era da Ascensão",
+    "Lore de ruptura/As 3 Grandes Eras/As 3 Grandes Eras.md",
+    "Lore de ruptura/As 3 Grandes Eras/Ante Mundo.md",
+    "Lore de ruptura/As 3 Grandes Eras",
+    "Base de Regras/Criação de personagem/Classes/Irregulares/Bardo (redesign iminente).md",
     "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Guerreiro.md",
     "Base de Regras/Criação de personagem/Classes/Irregulares/Conceito de Irregular.md",
     "Base de Regras/Equipamento/Armaduras.md",
-    "Base de Regras/Condiçoes.md",
-    "Base de Regras/Núcleo de jogabilidade.md",
-    "Base de Regras/Criação de personagem/Raças/Spires.md",
-    "Base de Regras/Criação de personagem/Raças/Tritão.md",
-    "Base de Regras/Criação de personagem/Raças/Elfos.md",
-    "Base de Regras/Criação de personagem/Raças/Anões.md",
-    "Base de Regras/Criação de personagem/Raças/Personificados.md",
-    "Base de Regras/Criação de personagem/Raças/Minotauros.md",
-    "Base de Regras/Criação de personagem/Raças/Lizard Folks.md",
-    "Base de Regras/Criação de personagem/Raças/Lamias.md",
-    "Base de Regras/Criação de personagem/Raças/Gnomos.md",
-    "Base de Regras/Criação de personagem/Raças/Equions.md",
-    "Base de Regras/Criação de personagem/Raças/Delsgaes.md",
-    "Base de Regras/Criação de personagem/Raças/Ciclopes.md",
-    "Base de Regras/Criação de personagem/Raças/Bird Folk.md",
-    "Base de Regras/Criação de personagem/Raças/Beast Folk.md",
-    "Base de Regras/Criação de personagem/Raças/Aracne.md",
-    "Base de Regras/Criação de personagem/Raças/Antrotomas.md",
-    "Base de Regras/Criação de personagem/Criação de personagem.md",
-    "Base de Regras/Regras do Combate.md",
-    "Base de Regras/Criação de personagem/Classes/Irregulares/Bardo (possivel descarte).md",
-    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Caçador.md",
-    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Baluarte.md",
     "Base de Regras/Equipamento/Artefatos",
     "Tags",
     "Base de Regras/Núcleo de jogabilidade",
     "Base de Regras/Criação de personagem/Pericias",
     "Base de Regras/Criação de personagem/Untitled.canvas",
-    "Livro das Bestas",
-    "Lore de ruptura",
-    "Base de Regras/Criação de personagem/Classes/Irregulares/Cozinheiro",
-    "Base de Regras/Criação de personagem/Classes/Irregulares/Pecuarista",
-    "Base de Regras/Criação de personagem/Classes/Irregulares/Fazendeiro",
-    "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro"
+    "Livro das Bestas"
   ]
 }

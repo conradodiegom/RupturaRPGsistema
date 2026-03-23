@@ -44,7 +44,7 @@ Habilidade base da força
 
   
 
-Aura básica
+Devir básico
 
   
 
@@ -52,7 +52,7 @@ Você aprende o básico da manipulação de aura podendo gastar 1 NE para envolv
 
   
 
-Aura perfurante
+Devir perfurante
 
 Sua aura flui em direção a ponta do seu ataque, você pode gastar +1 NE para ignorar 3 de resistência do inimigo
 
@@ -64,7 +64,7 @@ Pode gastar 2 NE para expandir a aura, confundindo os sentidos do inimigo e perm
 
   
 
-Salto de aura
+Salto de devir
 
   
 
