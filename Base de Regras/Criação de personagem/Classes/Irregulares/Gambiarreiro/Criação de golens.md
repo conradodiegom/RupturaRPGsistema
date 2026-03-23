@@ -39,7 +39,7 @@ Você recebe dano dobrado de fogo, e não consegue se livrar sozinho da condiç�
 #### Golem de pedra
 
 **O Golem básico** 
-Por ser feito de pedra tem IP 5 a Corte e 2 a Perfuração e ele ganha a ação de ataque Rocha Das Eras: o golem se torna uma esfera e se desloca o dobro de seu deslocamento e dá Xd6 de dano em tudo em seu caminho (o X é de acordo com o atributo corpo) você só para no fim do deslocamento e recebe 1d4 de dano sempre que acerta algo considerado resistente (paredes, pedras, metais, (OBS caso acerte outro golem de pedra rolando o movimento se reinicia dobrando o dano))
+Por ser feito de pedra tem IP 5 a Corte e 2 a Perfuração e ele ganha a ação de ataque Rocha Das Eras: o golem se torna uma esfera e se desloca o dobro de seu deslocamento e dá Xd6 de dano em tudo em seu caminho (o X é de acordo com o atributo corpo) você só para no fim do deslocamento e recebe 1d4 de dano sempre que acerta algo considerado resistente (paredes, pedras, metais, (OBS: caso acerte outro golem de pedra rolando o movimento se reinicia dobrando o dano)
 
 **Absurdamente minerável**
 Recebe dano dobrado de impacto ou picaretas. (**AFUNDA**)
