@@ -139,4 +139,4 @@ Pedem medidas desesperadas, hora do plano C, caso seu golem esteja com 1/4 da vi
 Você pode usar seu golem como uma montaria, ele reduz o tempo de viagem pela metade e pode levar um numero de pessoas igual a seu corpo
 
 **Papagaio** <font color="#c00000">custo 0</font> 
-rode 1d12, o numero que sair será a quantia de palavras que o golem aprende, escolha com cuidado (o mestre escolhe metade)
+rode 1d12, o numero que sair será a quantia de palavras que o golem aprende, escolha com cuidado (o mestre escolhe metade) caso caia 1 no período entre sessões ou o jogador ou o mestre deve ser executado
