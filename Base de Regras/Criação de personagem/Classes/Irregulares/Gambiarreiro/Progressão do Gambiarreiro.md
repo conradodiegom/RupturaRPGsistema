@@ -19,8 +19,9 @@ Avançar pelos níveis como um gambiarreiro é demonstrar suas habilidades de cr
 
 A progressão do guerreiro se dá do seguinte modo
 
-| Niveis de Gambiarreiro |                                                                  |     |     |     |
+|                        |                                                                  |     |     |     |
 | ---------------------- | ---------------------------------------------------------------- | --- | --- | --- |
+| Niveis de Gambiarreiro |                                                                  |     |     |     |
 | 1° Nivel               | Invenção de assinatura, sangue suor e lagrimas                   |     |     |     |
 | 2° Nivel               | Instinto de criação ou Instinto de criador, habilidade de classe |     |     |     |
 | 3° Nivel               | Caminho de guerreiro - primeiro passo, habilidade geral, perícia |     |     |     |
@@ -63,7 +64,6 @@ Sempre que seu artefato quebrar você ira melhorar o mesmo ao consertar aumentan
 **Primeiro passo:**
 **Melhoria autônoma**: A cada nível a partir desse seu golem ganha algumas de coisas 2 em dois niveis seguindo a progressão da tabela abaixo de acordo com o corpo do golem
 
-<<<<<<< HEAD
 | Nivel | Pedra | Metal | Carne                              | Cristal | Madeira                                                                                           | Tecido                                        | Argila |
 | ----- | ----- | ----- | ---------------------------------- | ------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------- | ------ |
 | 3°    |       |       | 1 Habilidade de uma raça aleatória |         | 1º habilidade de caminho do druida                                                                | +1 boneca                                     |        |
@@ -75,19 +75,6 @@ Sempre que seu artefato quebrar você ira melhorar o mesmo ao consertar aumentan
 | 15°   |       |       | 1 Habilidade de classe aleatória   |         | Enxerto: enxerta no golem 2 plantas de categoria 1 ou uma de categoria 2 (vide lista de sementes) | +1 boneca                                     |        |
 | 17°   |       |       | +1 Corpo                           |         |                                                                                                   | +1 Corpo                                      |        |
 | 19°   |       |       | 1 Habilidade de uma raça aleatória |         |                                                                                                   | +1 boneca                                     |        |
-=======
-| Nivel | Pedra | Metal    | Carne                              | Cristal  | Madeira  | Tecido        | Argila   |
-| ----- | ----- | -------- | ---------------------------------- | -------- | -------- | ------------- | -------- |
-| 3°    |       |          | 1 Habilidade de uma raça aleatória |          |          | +1 boneca     |          |
-| 5°    |       | +1 Corpo | +1 Corpo                           | +1 Mente | +1 Corpo | +1 Corpo      | +1 Corpo |
-| 7°    |       |          | 1 Habilidade de classe aleatória   |          |          | +1 boneca     |          |
-| 9°    |       | +1 Corpo | +1 Corpo                           | +1 Mente | +1 Mente | +1 Celeridade | +1 Corpo |
-| 11°   |       |          | 1 Habilidade de uma raça aleatória |          |          | +1 boneca     |          |
-| 13°   |       | +1 Corpo | +1 Corpo                           | +1 Mente | +1 Corpo | +1 Mente      | +1 Corpo |
-| 15°   |       |          | 1 Habilidade de classe aleatória   |          |          | +1 boneca     |          |
-| 17°   |       | +1 Corpo | +1 Corpo                           | +1 Mente | +1 Mente | +1 Corpo      | +1 Corpo |
-| 19°   |       |          | 1 Habilidade de uma raça aleatória |          |          | +1 boneca     |          |
->>>>>>> origin/main
 
 #### Mestre do incerto
     
