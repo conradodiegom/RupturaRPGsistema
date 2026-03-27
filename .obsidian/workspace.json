@@ -11,14 +11,12 @@
             "id": "265ad567e8d8923b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Progressão do Gambiarreiro.md",
-                "mode": "source",
-                "source": false
+                "path": "Base de Regras/Criação de personagem"
               },
               "icon": "lucide-file",
-              "title": "Progressão do Gambiarreiro"
+              "title": "Criação de personagem"
             }
           }
         ]
@@ -207,11 +205,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "265ad567e8d8923b",
+  "active": "68ecef1023321f7c",
   "lastOpenFiles": [
+    "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Progressão do Gambiarreiro.md",
+    "conflict-files-obsidian-git.md",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares/Seismoroz, o Cataclismo irregular.md",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares/Os 5 Pilares.md",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares/Luce Gaihun, a Luz que guia.md",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares/Kairos, o Relógio eterno.md",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares/Ebissu, o Grande Abismo.md",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares/Asterion o Vasto espaço.md",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 4 Enaltecidos/Os 4 Enaltecidos.md",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 21 Ascendidos/Senhores do espirito.md",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 21 Ascendidos/Senhores da História.md",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 21 Ascendidos/Os grandes Regentes.md",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 10 regentes da terra/Os 10 regentes da terra.md",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 40 Deuses que regem Mhorgal.md",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 4 Enaltecidos",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 21 Ascendidos",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 10 regentes da terra",
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal",
     "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Criação de golens.md",
     "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Criação de artefatos.md",
-    "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Progressão do Gambiarreiro.md",
     "Base de Regras/Criação de personagem/Classes/Irregulares/Irregulares.md",
     "Base de Regras/Criação de personagem/Poderes/Poderes de Conflito.md",
     "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Guerreiro.md",
@@ -222,29 +238,11 @@
     "Base de Regras/Núcleo de jogabilidade.md",
     "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Gambiarreiro.md",
     "Base de Regras/Equipamento/Armas.md",
-    "Base de Regras/Criação de personagem/Classes/Irregulares/Doutor/Progressão do Doutor.md",
-    "Base de Regras/Criação de personagem/Classes/Irregulares/Doutor/O Herbario.md",
-    "Base de Regras/Condiçoes.md",
-    "Base de Regras/Criação de personagem/Classes/Irregulares/Doutor/Doutor.md",
-    "Base de Regras/Criação de personagem/Raças/Lizard Folks.md",
-    "Base de Regras/Equipamento/Artefatos/Exotico.md",
-    "Base de Regras/Equipamento/Artefatos/O que são os artefatos.md",
-    "Base de Regras/Equipamento/Artefatos/Divino.md",
-    "Base de Regras/Equipamento/Artefatos/Lendário.md",
-    "Base de Regras/Equipamento/Artefatos/Mítico.md",
-    "Base de Regras/Criação de personagem/Raças/Anões.md",
-    "Base de Regras/Criação de personagem/Raças/Humanos.md",
-    "Lore de ruptura/As 3 Grandes Eras/Era das Consequencias/Era das Consequencias.md",
     "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos",
     "Lore de ruptura/As 3 Grandes Eras/Era da Ascensão",
     "Lore de ruptura/As 3 Grandes Eras/Era das Consequencias",
     "Lore de ruptura/As 3 Grandes Eras/Era da Formação",
     "Lore de ruptura/As 3 Grandes Eras",
-    "Base de Regras/Equipamento/Artefatos",
-    "Tags",
-    "Base de Regras/Núcleo de jogabilidade",
-    "Base de Regras/Criação de personagem/Pericias",
-    "Base de Regras/Criação de personagem/Untitled.canvas",
-    "Livro das Bestas"
+    "Base de Regras/Criação de personagem/Untitled.canvas"
   ]
 }
