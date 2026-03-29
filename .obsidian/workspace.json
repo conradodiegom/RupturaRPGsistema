@@ -37,12 +37,12 @@
             "id": "53e79f93b9ca91a0",
             "type": "leaf",
             "state": {
-              "type": "mk-uri-view",
+              "type": "mk-space",
               "state": {
-                "path": "https://www.make.md/static/GetStarted.md"
+                "path": "Lore de ruptura/Os 40 Deuses que regem Mhorgal"
               },
               "icon": "lucide-file",
-              "title": "https://www.make.md/static/GetStarted.md"
+              "title": "Os 40 Deuses que regem Mhorgal"
             }
           }
         ],
@@ -232,15 +232,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "53e79f93b9ca91a0",
+  "active": "e4ce6f3f89ecdb6c",
   "lastOpenFiles": [
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 40 Deuses que regem Mhorgal.md",
+    "Base de Regras/Equipamento/Equipamento.md",
+    "Base de Regras/Regras do Combate.md",
+    "Base de Regras/Criação de personagem/Criação de personagem.md",
     "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Progressão do Gambiarreiro.md",
     "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 21 Ascendidos/Senhores do espirito.md",
     "conflict-files-obsidian-git.md",
     "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 21 Ascendidos/Os grandes Regentes.md",
     "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 21 Ascendidos/Senhores da História.md",
     "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares/Seismoroz, o Cataclismo irregular.md",
-    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 40 Deuses que regem Mhorgal.md",
     "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares/Luce Gaihun, a Luz que guia.md",
     "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares/Kairos, o Relógio eterno.md",
     "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares/Asterion o Vasto espaço.md",
@@ -261,10 +264,7 @@
     "Base de Regras/Criação de personagem/Classes/Mana/Mana.md",
     "Base de Regras/Criação de personagem/Classes/Mana/Magos.md",
     "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Criação de golens.md",
-    "Base de Regras/Criação de personagem/Criação de personagem.md",
     "Base de Regras/Núcleo de jogabilidade.md",
-    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos/Os primogênitos.md",
-    "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos/Os Primadis (Plantas).md",
     "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos",
     "Lore de ruptura/As 3 Grandes Eras/Era das Consequencias",
     "Lore de ruptura/As 3 Grandes Eras/Era da Formação",
