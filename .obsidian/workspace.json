@@ -20,33 +20,8 @@
               "icon": "lucide-file",
               "title": "Progressão do Gambiarreiro"
             }
-          },
-          {
-            "id": "0d4f999ef25f7ade",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
-            }
-          },
-          {
-            "id": "53e79f93b9ca91a0",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Lore de ruptura/Os 40 Deuses que regem Mhorgal"
-              },
-              "icon": "lucide-file",
-              "title": "Os 40 Deuses que regem Mhorgal"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +75,7 @@
             }
           },
           {
-            "id": "e4ce6f3f89ecdb6c",
+            "id": "4656e6e67a86ebba",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -232,8 +207,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e4ce6f3f89ecdb6c",
+  "active": "a90f2e63051abecc",
   "lastOpenFiles": [
+    "Base de Regras/Criação de personagem/Raças/Elfos.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Devir (Antiga aura).md",
     "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 40 Deuses que regem Mhorgal.md",
     "Base de Regras/Equipamento/Equipamento.md",
     "Base de Regras/Regras do Combate.md",
@@ -263,8 +240,6 @@
     "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/Magias Arcanas.md",
     "Base de Regras/Criação de personagem/Classes/Mana/Mana.md",
     "Base de Regras/Criação de personagem/Classes/Mana/Magos.md",
-    "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Criação de golens.md",
-    "Base de Regras/Núcleo de jogabilidade.md",
     "Lore de ruptura/As 3 Grandes Eras/Era da Formação/Os primogênitos",
     "Lore de ruptura/As 3 Grandes Eras/Era das Consequencias",
     "Lore de ruptura/As 3 Grandes Eras/Era da Formação",

@@ -40,19 +40,19 @@
   "expandedSpaces": [
     "/",
     "//Base de Regras",
-    "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes",
     "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Devotos",
     "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Irregulares",
     "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Irregulares/Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro",
     "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Mana",
     "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)",
     "Base de Regras/Criação de personagem/Classes",
-    "//Base de Regras/Base de Regras/Equipamento",
     "Base de Regras/Criação de personagem/Classes/Devotos",
     "Base de Regras/Criação de personagem/Classes/Devotos/Base de Regras/Criação de personagem/Classes/Devotos/Magias Divinas",
     "Lore de ruptura/Os 40 Deuses que regem Mhorgal",
     "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares",
-    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 10 regentes da terra"
+    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 10 regentes da terra",
+    "//Base de Regras/Base de Regras/Criação de personagem",
+    "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Raças"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
