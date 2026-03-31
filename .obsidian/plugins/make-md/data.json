@@ -38,7 +38,17 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Base de Regras",
+    "Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Irregulares",
+    "Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Irregulares/Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro",
+    "Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Mana",
+    "Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)",
+    "//Base de Regras/Base de Regras/Criação de personagem",
+    "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Raças",
+    "//Base de Regras/Base de Regras/Equipamento",
+    "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes",
+    "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

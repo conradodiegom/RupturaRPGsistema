@@ -6,7 +6,7 @@ Espelho
 
 Lâmpada
 
-  
+  Karpinski
 
 Livro
 
