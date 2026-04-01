@@ -38,7 +38,14 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Lore de ruptura",
+    "//Base de Regras",
+    "//Base de Regras/Base de Regras/Criação de personagem",
+    "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes",
+    "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Irregulares",
+    "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Irregulares/Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro",
+    "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Raças"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -50,8 +57,6 @@
     "_assets",
     "_blocks"
   ],
-  "newFileLocation": "root",
-  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
@@ -70,11 +75,11 @@
   "indexSVG": false,
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
-  "releaseNotesPrompt": 0.8,
+  "releaseNotesPrompt": 0.999,
   "enableDefaultSpaces": true,
   "showSpacePinIcon": true,
   "experimental": false,
-  "systemName": "Vault",
+  "systemName": "RupturaRPGsistema",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100,
@@ -101,7 +106,7 @@
     "emojiTriggerChar": ":",
     "flowState": false
   },
-  "firstLaunch": false,
+  "firstLaunch": true,
   "notesPreview": false,
   "editStickerInSidebar": true,
   "overrideNativeMenu": false,
