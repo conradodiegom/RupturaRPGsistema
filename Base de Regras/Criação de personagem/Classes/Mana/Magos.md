@@ -16,7 +16,7 @@ Avançar pelos níveis como um guerreiro é demonstrar suas habilidades de comba
 
   
 
-Perícias: Escolha Duelo, Conjuração, e 7 + mente a sua escolha
+Perícias: Escolha Duelo, Conjuração, e outras 5  a sua escolha
 
   
   

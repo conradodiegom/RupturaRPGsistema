@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e7b3866102becee",
+        "id": "6c47faf2f9b1a412",
         "type": "tabs",
         "children": [
           {
-            "id": "265ad567e8d8923b",
+            "id": "710f9c469e9379ec",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Base de Regras/Criação de personagem/Raças/Gnomos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Gnomos"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "3414d0bf28eea796",
+            "id": "9d8bfba02670734c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -207,34 +207,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "265ad567e8d8923b",
+  "active": "710f9c469e9379ec",
   "lastOpenFiles": [
+    "Base de Regras/Núcleo de jogabilidade.md",
     "Base de Regras/Criação de personagem/Raças/Gnomos.md",
-    "conflict-files-obsidian-git.md",
-    "Base de Regras/Criação de personagem/Raças/Equions.md",
-    "Base de Regras/Criação de personagem/Raças/Tritão.md",
-    "Base de Regras/Criação de personagem/Raças/Spires.md",
-    "Base de Regras/Criação de personagem/Raças/Personificados.md",
-    "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Progressão do Gambiarreiro.md",
+    "Base de Regras/Regras do Combate.md",
     "Base de Regras/Criação de personagem/Raças/Elfos.md",
+    "Base de Regras/Criação de personagem/Raças/Beast Folk.md",
+    "Base de Regras/Criação de personagem/Raças/Minotauros.md",
+    "Base de Regras/Condiçoes.md",
+    "Base de Regras/Criação de personagem/Raças/Lizard Folks.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Untitled.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Invocador.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Guerreiro.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Druida.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Magos.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Mana.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Conceito da Mana.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Lutador.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Ladino.md",
+    "Base de Regras/Criação de personagem/Raças/Spires.md",
+    "Base de Regras/Criação de personagem/Pericias.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/1º Circulo (Iniciação).md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/Magias Arcanas.md",
     "Base de Regras/Criação de personagem/Raças/Aracne.md",
     "Base de Regras/Criação de personagem/Raças/Antrotomas.md",
+    "Base de Regras/Criação de personagem/Raças/Humanos.md",
+    "Base de Regras/Criação de personagem/Raças/Personificados.md",
     "Base de Regras/Criação de personagem/Raças/Anões.md",
-    "Base de Regras/Criação de personagem/Raças/Ciclopes.md",
-    "Base de Regras/Criação de personagem/Raças/Bird Folk.md",
-    "Base de Regras/Criação de personagem/Raças/Beast Folk.md",
-    "Base de Regras/Criação de personagem/Raças/Lizard Folks.md",
-    "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Criação de artefatos.md",
-    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Baluarte.md",
-    "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Criação de golens.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Druida.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Invocador.md",
-    "Base de Regras/Condiçoes.md",
-    "Base de Regras/Criação de personagem/Criação de personagem.md",
-    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares/Seismoroz, o Cataclismo irregular.md",
-    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares/Os 5 Pilares.md",
-    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares/Luce Gaihun, a Luz que guia.md",
-    "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares/Kairos, o Relógio eterno.md",
     "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 5 Pilares",
     "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 4 Enaltecidos",
     "Lore de ruptura/Os 40 Deuses que regem Mhorgal/Os 21 Ascendidos",
