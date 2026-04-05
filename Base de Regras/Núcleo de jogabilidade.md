@@ -286,7 +286,7 @@ Para descobrir seus atributos, você rola 2d6 e distribui entre seus 4 atributos
 
   
 
-Na criação de personagem o limite para distribuição é de até 5º nível e o máximo para um personagem de jogador é de até o 10º nível.
+Na criação de personagem o limite para distribuição é de até 4º nível e o máximo para um personagem de jogador é de até o 10º nível.
 
   
 

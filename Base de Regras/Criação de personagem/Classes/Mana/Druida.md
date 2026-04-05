@@ -16,17 +16,13 @@ Avançar pelos níveis como um guerreiro é demonstrar suas habilidades de comba
 
   
 
-Perícias: Escolha entre Duelo ou Disparo, Fortitude ou Reflexos, e 6 + mente a sua escolha
+Perícias: Escolha entre Duelo ou Disparo, Fortitude ou Reflexos, e 6 +a sua escolha
 
   
 
 Contrato espiritual
 
-  
-
 Escolha um elemento para firmar contrato com um espírito, você pode aumentar o dano das magias desse elemento em um passo
-
-  
 
 Magia espiritual
 
