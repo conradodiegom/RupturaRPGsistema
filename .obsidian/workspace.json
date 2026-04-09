@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Druida"
             }
-          },
-          {
-            "id": "91e26fbbde5be9bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +207,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "91e26fbbde5be9bb",
+  "active": "d63d03e150247e68",
   "lastOpenFiles": [
     "Base de Regras/Criação de personagem/Classes/Mana/Druida.md",
     "conflict-files-obsidian-git.md",
