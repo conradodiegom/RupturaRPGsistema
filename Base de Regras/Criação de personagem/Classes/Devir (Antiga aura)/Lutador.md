@@ -16,7 +16,7 @@ Avançar pelos níveis como um lutador lhe mostrará os desafios de um combate f
 
   
 
-Perícias: Escolha Duelo, Fortitude ou Reflexos, e 3 + mente a sua escolha
+Perícias: Escolha Duelo, Fortitude ou Reflexos, e 3 a sua escolha
 
   
 

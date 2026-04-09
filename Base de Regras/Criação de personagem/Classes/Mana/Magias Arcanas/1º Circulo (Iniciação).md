@@ -6,14 +6,12 @@ Conhecido como o círculo da iniciação, é formado ao redor de um dos pulsos d
   
 Tem um gasto padrão de 1 NE
 
-Magias desse círculo
+## Magias desse círculo
 
-Flecha de vento
-
-Vento
+#### Flecha de vento
+**Vento**
 
 Necessita de um teste de conjuração
-
 curto
 
   
@@ -22,22 +20,19 @@ Uma flecha feita a base de uma corrente afiada de vento que causa 1d8 de dano co
 
   
 
-Melhorado: “Grande Flecha dos ventos” + 2NE: Carrega a flecha em uma lufada de vento maior, causando agora 2d6 de dano, além disso o alvo precisa fazer um teste de reflexos para não ser empurrado 9 metros pela flecha 
+**Melhorado: “Grande Flecha dos ventos”** + 2NE: Carrega a flecha em uma lufada de vento maior, causando agora 2d6 de dano, além disso o alvo precisa fazer um teste de reflexos para não ser empurrado 9 metros pela flecha 
 
   
 
-Complexo: “Tempestade de flechas” 2 Turnos + 5 NE: Convoca várias flechas de vento para formar uma chuva, atingindo um número de inimigos igual ao seu bônus de conjuração, cada flecha causa 1d8 perfurante
+**Complexo: “Tempestade de flechas”** 2 Turnos + 5 NE: Convoca várias flechas de vento para formar uma chuva, atingindo um número de inimigos igual ao seu bônus de conjuração, cada flecha causa 1d8 perfurante
 
   
 
-Disparo de rocha
-
-Terra
-
-  
+#### Disparo de rocha
+**Terra**
 
 Necessita de teste de conjuração
-
+Curto
   
 
 Joga um pedaço de rocha voando na direção do inimigo causando 1d6 de dano contundente, o alvo deve rodar um teste de fortitude ou ficará atordoado por 1d4 rodadas
@@ -46,9 +41,8 @@ em caso de ataque crítico o alvo tentara contra a condição de inconsciente po
 
   
 
-Terreno instável
-
-Terra
+#### Terreno instável
+**Terra**
 
   
 
@@ -60,8 +54,7 @@ Melhorado: + 2NE Escolha apenas um alvo, o chão abaixo dele cede e o prende dei
 
   
 
-Congelamento
-
+#### Congelamento
 Gelo
 
   
@@ -70,16 +63,11 @@ Escolha um alvo, o mesmo começará a ser congelado no lugar, recebendo 1d4 de d
 
   
 
-Golpe de magma
+#### Golpe de magma
+**Magma**
 
-Magma
-
-  
 
 Alcance corpo a corpo
-
-  
-
 precisa de conjuração
 
   
@@ -88,9 +76,8 @@ Cria uma quantidade considerável de magma para fazer um golpe físico, esse gol
 
   
 
-Lâmina de água
-
-Água
+**Lâmina de água**
+**Água**
 
   
 
@@ -106,9 +93,9 @@ Cria uma lâmina com água pressurizada para causar um corte, causando 1d4 nos i
 
   
 
-Restauração temporária
+#### **Restauração temporária**
 
-Natureza
+**Natureza**
 
 Alcance curto
 
@@ -120,9 +107,8 @@ Você cria várias vinhas para fechar rapidamente os ferimentos de um aliado (ou
 
   
 
-Armadura das matas
-
-Natureza
+#### **Armadura das matas**
+**Natureza**
 
 Alcance curto
 
@@ -133,4 +119,28 @@ Alvo si/1 aliado
 Você conjura uma armadura de árvores por cima do próprio corpo aumentando sua defesa em 3 e recebendo IP 3 a físico caso não esteja usando armadura
 
   
-**
+#### **Armadura das matas**
+**Natureza**
+
+Alcance curto
+
+Alvo si/1 aliado
+
+  
+
+Você conjura uma armadura de árvores por cima do próprio corpo aumentando sua defesa em 3 e recebendo IP 3 a físico caso não esteja usando armadura
+
+#### Toque de raio
+**Raio**
+
+Alcance corpo a corpo
+Precisa de teste de conjuração
+
+Você toca em um alvo causando 2d6 de dano elétrico no seu alvo
+
+#### Linha de eletrocussão
+**Raio**
+
+Linha de 9M
+
+Voce dispara um raio em uma linha de 9m causando 1d8 em tudo na linha

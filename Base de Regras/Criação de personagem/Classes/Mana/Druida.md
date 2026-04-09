@@ -16,15 +16,20 @@ Avançar pelos níveis como um guerreiro é demonstrar suas habilidades de comba
 
   
 
+<<<<<<< HEAD
 - Perícias: Escolha entre Duelo ou Disparo, Fortitude ou Reflexos
     
 - Proficiente em uma arma marcial
     
+=======
+Perícias: Escolha entre Duelo ou Disparo, Fortitude ou Reflexos, e 6 +a sua escolha
+>>>>>>> origin/main
 
   
 
 A progressão do Druida se dá do seguinte modo
 
+<<<<<<< HEAD
 | Niveis de Druida |                                                                    |     |     |     |
 | ---------------- | ------------------------------------------------------------------ | --- | --- | --- |
 | 1° Nivel         | Contrato espiritual, Magia do espirito                             |     |     |     |
@@ -55,6 +60,11 @@ Você firma contrato com algum dos espíritos fugitivos de Havalheim recebendo a
 - Todas suas magias do elemento do espirito tem o dano aumentado em 1 dado, caso sejam em área ao invés disso ganha +3 m de raio caso seja de vários alvos aumentam o máximo em 1
 - Você pode guardar uma magia no espirito durante uma cena de interludio e gastar uma ação de movimento para descarregar a mesma
 
+=======
+Escolha um elemento para firmar contrato com um espírito, você pode aumentar o dano das magias desse elemento em um passo
+
+Magia espiritual
+>>>>>>> origin/main
 
 ## **Magia espiritual**
 

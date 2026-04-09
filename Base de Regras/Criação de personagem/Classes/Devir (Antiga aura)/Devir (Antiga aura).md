@@ -2,7 +2,6 @@
 sticker: lucide//expand
 color: "#01770b"
 ---
-**
 
 6NV
 

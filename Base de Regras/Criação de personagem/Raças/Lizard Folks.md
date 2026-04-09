@@ -23,13 +23,15 @@ OBS²:Caso você devore seu próprio rabo, recupera os NV ao fim da cena sem pre
 Caso esteja sob a condição de queimadura gélida sofre desvantagem em testes durante a duração da condição 
 
 **<h1><center>Sapo/Rã/Perereca</center></h1>
-### Habil Corpo
+### Anfíbio
 
-### Habil1
-
-### Habil2
-
-### Desvantagem**
++1 Celeridade e Corpo ou +2 de Corpo, 6M de deslocamento entre escalada ou nado, furtividade
+### Grande salto
+Gasta 1 NE para realizar um salto com +3 de deslocamento máximo, caso atinja um alvo causa 1d4 para cada 6m percorridos como dano de impacto, ao atingir recua 3 metros por quicar na criatura
+### Língua do sapo
+Pode gastar 1 NE para puxar um inimigo com sua língua até você, caso seja dois tamanhos menor não precisa de teste, caso seja de tamanho igual ou um menor faz um teste de duelo, caso seja maior você é puxada
+### Físico sensível
+Tudo aquilo que você ingere é excretado pela pele, caso beba uma poção ou veneno qualquer ser que o tocar receberá o efeito do item consumido, você pode gastar uma ação de movimento para passar esse muco na sua arma
 **<h1><center>Salamandra</center></h1>**
 ### Habil Corpo
 
