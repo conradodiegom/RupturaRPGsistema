@@ -19,29 +19,28 @@ Avançar pelos níveis como um gambiarreiro é demonstrar suas habilidades de cr
 
 A progressão do guerreiro se dá do seguinte modo
 
-|                        |                                                                     |     |     |     |
-| ---------------------- | ------------------------------------------------------------------- | --- | --- | --- |
-| Niveis de Gambiarreiro |                                                                     |     |     |     |
-| 1° Nivel               | Invenção de assinatura, sangue suor e lagrimas                      |     |     |     |
-| 2° Nivel               | Instinto de criação ou Instinto de criador, habilidade de classe    |     |     |     |
-| 3° Nivel               | Caminho de gambiarreiro - primeiro passo, habilidade geral, perícia |     |     |     |
-| 4° Nivel               | habil2, habilidade de classe, aprimoramento +5                      |     |     |     |
-| 5° Nivel               | Caminho de guerreiro - segundo passo, +1 em atributo                |     |     |     |
-| 6° Nivel               |                                                                     |     |     |     |
-| 7° Nivel               |                                                                     |     |     |     |
-| 8° Nivel               |                                                                     |     |     |     |
-| 9° Nivel               |                                                                     |     |     |     |
-| 10° Nivel              |                                                                     |     |     |     |
-| 11° Nivel              |                                                                     |     |     |     |
-| 12° Nivel              |                                                                     |     |     |     |
-| 13° Nivel              |                                                                     |     |     |     |
-| 14° Nivel              |                                                                     |     |     |     |
-| 15° Nivel              |                                                                     |     |     |     |
-| 16° Nivel              |                                                                     |     |     |     |
-| 17° Nivel              |                                                                     |     |     |     |
-| 18° Nivel              |                                                                     |     |     |     |
-| 19° Nivel              |                                                                     |     |     |     |
-| 20° Nivel              |                                                                     |     |     |     |
+| Niveis de Gambiarreiro |                                                                     |
+| ---------------------- | ------------------------------------------------------------------- |
+| 1° Nivel               | Invenção de assinatura, sangue suor e lagrimas                      |
+| 2° Nivel               | Instinto de criação ou Instinto de criador, habilidade de classe    |
+| 3° Nivel               | Caminho de gambiarreiro - primeiro passo, habilidade geral, perícia |
+| 4° Nivel               | habil2, habilidade de classe, aprimoramento +5                      |
+| 5° Nivel               | Caminho de guerreiro - segundo passo, +1 em atributo                |
+| 6° Nivel               |                                                                     |
+| 7° Nivel               |                                                                     |
+| 8° Nivel               |                                                                     |
+| 9° Nivel               |                                                                     |
+| 10° Nivel              |                                                                     |
+| 11° Nivel              |                                                                     |
+| 12° Nivel              |                                                                     |
+| 13° Nivel              |                                                                     |
+| 14° Nivel              |                                                                     |
+| 15° Nivel              |                                                                     |
+| 16° Nivel              |                                                                     |
+| 17° Nivel              |                                                                     |
+| 18° Nivel              |                                                                     |
+| 19° Nivel              |                                                                     |
+| 20° Nivel              |                                                                     |
 
 ### Invenção de assinatura
 

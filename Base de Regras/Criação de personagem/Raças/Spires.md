@@ -22,6 +22,9 @@ Caso esteja dentro da lâmpada você recebe +5 de furtividade, mas caso fechem a
 **<h1><center>Livro</center></h1>**
 ## Habil Corpo
 
+<<<<<<< HEAD
+  Karpinski
+=======
 ### Habil1
 
 ### Habil2
@@ -36,6 +39,7 @@ Caso esteja dentro da lâmpada você recebe +5 de furtividade, mas caso fechem a
 
 ### Desvantagem
   
+>>>>>>> origin/main
 
 **<h1><center>Pedra</center></h1>**
 ## Habil Corpo
