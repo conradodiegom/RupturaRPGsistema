@@ -38,7 +38,11 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Base de Regras",
+    "//Base de Regras/Base de Regras/Criação de personagem",
+    "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes",
+    "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Mana"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
