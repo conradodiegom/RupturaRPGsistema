@@ -93,39 +93,20 @@ Escolha um tipo de deslocamento especial para sua invocação, caso seja rápida
 Pode escolher entre Voo, Escalada, Escavação ou nado
 
 **Habilidades Passivas**
+Escolha 1 dessas habilidades
 
-Montaria: você pode montar na sua invocação ganhando +3 de acerto em ataques a distancia
+**Amigo montável:** você pode montar na sua invocação ganhando +3 de acerto em ataques a distancia
 
+**Amigo escandaloso:** Sempre que alguém atacar seu invocador recebe o dano no lugar dele
 
-<font color="#f79646">**Fada de sangue (necromancia)**</font>
-<font color="#f79646">NV 5</font>
-<font color="#f79646">Voo 9M</font>
-<font color="#f79646">Ataque</font>
-<font color="#f79646">Perfura com suas presas ou garras causando 1d4 de dano perfurante e deixa o alvo sangrando</font>
-<font color="#f79646">Habilidade</font>
-<font color="#f79646">Ao receber dano corpo a corpo devolve 1d6 de dano</font>
+**Amigo instável:** Seu amigo pode explodir causando 1/4 da sua vida total como dano
 
-<font color="#f79646">**Galináceos Titanicus (megafauna)**</font>
-<font color="#f79646">NV 15</font>
-<font color="#f79646">Padrão 6M</font>
-<font color="#f79646">Ataque</font>
-<font color="#f79646">Pula em cima dos inimigos causando 1d10 de dano de impacto</font>
-<font color="#f79646">Habilidade</font>
-<font color="#f79646">Você pode montar na galinha, recebendo +3 de disparo</font>
+**Amigo charmoso:** Pode fazer um teste de artes para receber um item ou valor simbólico dos bolsos de quem vê seu amigo
 
-<font color="#f79646">**Coelho de cauda longa (misticismo)**</font>
-<font color="#f79646">NV 2</font>
-<font color="#f79646">Salto 12M</font>
-<font color="#f79646">Ataque</font>
-<font color="#f79646">Ele dá uma investida com seu chifre causando 1d6 de dano perfurante</font>
-<font color="#f79646">Habilidade</font>
-<font color="#f79646">Caso não sejam ativamente atacados entram em furtividade, sendo capazes de ataques furtivos (+1d4 de dano)</font>
+**Amigo da bolsa:** Sempre que invoca um amigo ele vem com uma arma improvisada que pode usar como ação de movimento causa 1d4 de dano sendo corpo a corpo ou a distancia
 
-<font color="#f79646">**Besouro (Insetos)**</font>
-<font color="#f79646">NV 10</font>
-<font color="#f79646">voo 6M</font>
-<font color="#f79646">Ataque</font>
-<font color="#f79646">Ele dá uma investida com seu chifre causando 1d8 de dano impacto</font>
-<font color="#f79646">Habilidade</font>
-<font color="#f79646">Caso alguém tente atacar o invocador, precisa fazer um teste de vontade DT Conjuração + 3 por besouro para não atacar o besouro ao invés disso</font>
+**Amigo ranzinza:** Ganha mais 6 de NV mas todo teste baseado em espirito recebe -3 (Pra cada criatura)
+
+**Amigo Amigável:** +3 em todos os testes de espirito, porem o amigo não causa dano
+
 ## Magias do currículo comum
