@@ -40,10 +40,14 @@
   "expandedSpaces": [
     "/",
     "//Base de Regras",
-    "//Base de Regras/Base de Regras/Criação de personagem",
     "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes",
     "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Classes/Base de Regras/Criação de personagem/Classes/Mana",
-    "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Raças"
+    "//Base de Regras/Base de Regras/Criação de personagem/Base de Regras/Criação de personagem/Raças",
+    "//Base de Regras/Base de Regras/Equipamento",
+    "//Lore de ruptura",
+    "//Lore de ruptura/Lore de ruptura/As terras da ruptura Morghal",
+    "//Lore de ruptura/Lore de ruptura/As terras da ruptura Morghal/Lore de ruptura/As terras da ruptura Morghal/Os 6 continentes",
+    "//Lore de ruptura/Lore de ruptura/As terras da ruptura Morghal/Lore de ruptura/As terras da ruptura Morghal/Os 6 continentes/Lore de ruptura/As terras da ruptura Morghal/Os 6 continentes/Castoll O Continente Central"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
