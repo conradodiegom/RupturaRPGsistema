@@ -60,12 +60,6 @@ Você firma contrato com algum dos espíritos fugitivos de Havalheim recebendo a
 - Todas suas magias do elemento do espirito tem o dano aumentado em 1 dado, caso sejam em área ao invés disso ganha +3 m de raio caso seja de vários alvos aumentam o máximo em 1
 - Você pode guardar uma magia no espirito durante uma cena de interludio e gastar uma ação de movimento para descarregar a mesma
 
-=======
-Escolha um elemento para firmar contrato com um espírito, você pode aumentar o dano das magias desse elemento em um passo
-
-Magia espiritual
-
-
 ## **Magia espiritual**
 
 Escolha 2 magias de 1° Círculo de no máximo dois elementos diferentes

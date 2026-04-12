@@ -81,13 +81,21 @@ Desfere um golpe pesado causando 1d6 + 2 de dano físico (escolha o tipo entre c
 **Pode usar Bloqueio +3**
 **ND 16**
 
-
 ##### Escolha 1 dos ataques a seguir
 **ataque pesado**
 Gasta a ação completa e desfere um ataque pesado que causam 1d10 + 2 de dano físico (escolha o tipo entre corte, perfuração ou impacto)
 
 **ataque defensivo**
 Ataca um inimigo que tenha atingido um aliado 1d4 + 2 de dano físico (escolha o tipo entre corte, perfuração ou impacto) e pela defesa seu aliado recebe + 3 RD físico
+
+**Deslocamento especial**
+Escolha um tipo de deslocamento especial para sua invocação, caso seja rápida ganha 9M se for comum ganha 6m se for resistente ganha 3M
+Pode escolher entre Voo, Escalada, Escavação ou nado
+
+**Habilidades Passivas**
+
+Montaria: você pode montar na sua invocação ganhando +3 de acerto em ataques a distancia
+
 
 <font color="#f79646">**Fada de sangue (necromancia)**</font>
 <font color="#f79646">NV 5</font>

@@ -10,7 +10,7 @@ Sets de Dados:</center></h1>
 
   
 
-Ruptura pode ser jogado com 2 sets de dados diferentes, sendo eles os 2d10 que são o padrão esperado para ruptura por serem mais estáveis ou também com o clássico D20 para uma experiência mais comum
+Ruptura pode ser jogado com 2 sets de dados diferentes, sendo eles os 2d10 que são o padrão esperado para ruptura por serem mais estáveis ou também com o clássico D20 para uma experiência mais comum, isso normalmente é decidido no inicio da primeira sessão e será mantido pelo resto da campanha a decisão se aplica para todos os jogadores da mesa
 
   
 
