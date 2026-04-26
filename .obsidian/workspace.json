@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base de Regras/Criação de personagem/Classes/Mana/Druida.md",
+                "file": "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/1º Circulo (Iniciação).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Druida"
+              "title": "1º Circulo (Iniciação)"
             }
           }
         ]
@@ -209,12 +209,14 @@
   },
   "active": "710f9c469e9379ec",
   "lastOpenFiles": [
+    "Base de Regras/Criação de personagem/Classes/Mana/Druida.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/1º Circulo (Iniciação).md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Ladino.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Invocador.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Magos.md",
     "Base de Regras/Criação de personagem/Poderes/Poderes de Sobrevivência.md",
     "Base de Regras/Criação de personagem/Poderes/Poderes de Utilidade.md",
     "Base de Regras/Criação de personagem/Poderes/Poderes de Conflito.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Druida.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Invocador.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Magos.md",
     "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Caçador.md",
     "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Baluarte.md",
     "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Lutador.md",
@@ -226,7 +228,6 @@
     "Base de Regras/Equipamento/Armas.md",
     "Base de Regras/Núcleo de jogabilidade.md",
     "Base de Regras/Condiçoes.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/1º Circulo (Iniciação).md",
     "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/5º Circulo (Assimilação).md",
     "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/2º Circulo (Compreensão).md",
     "Base de Regras/Criação de personagem/Raças/Lamias.md",
@@ -234,7 +235,6 @@
     "Base de Regras/Criação de personagem/Raças/Personificados.md",
     "Base de Regras/Criação de personagem/Raças/Spires.md",
     "Base de Regras/Criação de personagem/Raças/Tritão.md",
-    "Base de Regras/Criação de personagem/Raças/Gnomos.md",
     "Lore de ruptura/As terras da ruptura Morghal/Organizações alheias",
     "Lore de ruptura/As terras da ruptura Morghal/Os 6 continentes/Castoll O Continente Central/Reinos de Castoll/Hafenlor (o porto dos perdidos)",
     "Lore de ruptura/As terras da ruptura Morghal/Os 6 continentes/Castoll O Continente Central/Reinos de Castoll",

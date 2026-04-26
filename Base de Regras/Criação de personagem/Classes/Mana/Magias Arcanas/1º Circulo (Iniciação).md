@@ -128,3 +128,32 @@ Você toca em um alvo causando 2d4 de dano elétrico no seu alvo
 Linha de 9M
 
 Voce dispara um raio em uma linha de 9m causando 1d8 em tudo na linha
+
+#### Corte de sombra
+Necromancia
+
+Necessita de teste de conjuração
+Curto
+  
+
+Corta um espaço removendo a luz do local e causando 1d8 dano necrótico
+
+em caso de ataque crítico o alvo tentara contra a condição de aeterico por 1 rodada
+
+**Mão de sombra**
+Necromancia
+
+Curto
+  
+
+Cria uma mão de sombras para interagir com objetos pequenos ou médios (imita a força do usuário)
+
+#### Obscurecer
+**Necromancia**
+
+Curto
+  
+
+Cria uma espessa bolha de sombras no rosto do alvo, tornando o mesmo cego por 1d4 rodadas
+
+em caso de ataque crítico o alvo tentara contra a condição de alheiopor 1 rodada

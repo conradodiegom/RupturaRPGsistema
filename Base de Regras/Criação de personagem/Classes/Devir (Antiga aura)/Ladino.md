@@ -85,7 +85,6 @@ Pode gastar 2 NE para expandir a aura, confundindo os sentidos do inimigo e perm
 
 Salto de devir
 
-  
 
 Gaste 2 NE para poder fazer um salto com o dobro do seu deslocamento
 

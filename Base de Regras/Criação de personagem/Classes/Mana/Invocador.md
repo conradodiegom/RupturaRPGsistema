@@ -110,3 +110,17 @@ Escolha 1 dessas habilidades
 **Amigo Amigável:** +3 em todos os testes de espirito, porem o amigo não causa dano
 
 ## Magias do currículo comum
+Você ganha 3 magias arcanas a sua escolha
+
+#### **Cura de emergência**
+Cura 1d4NV de uma de suas invocações pelo custo de 1NE
+  
+
+**Conjurar via amigo**
+ Você pode gastar 2 NE para fazer um feitiço a partir de um amigo (invocação) 
+
+**Rede de amigos**
+Caso varias invocações ataquem juntas ganham +1 de acerto por invocação (gasta 1NE por turno)
+
+**Disparo via amigo** 
+ Você ensina o segundo ataque disponível para sua invocação principal (gasta 1NE por turno)
