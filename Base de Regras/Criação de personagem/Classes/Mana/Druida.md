@@ -16,12 +16,9 @@ Avançar pelos níveis como um guerreiro é demonstrar suas habilidades de comba
 
   
 
-<<<<<<< HEAD
 - Perícias: Escolha entre Duelo ou Disparo, Fortitude ou Reflexos
-    
 - Proficiente em uma arma marcial
-    
-=======
+
 Perícias: Escolha entre Duelo ou Disparo, Fortitude ou Reflexos, e 6 +a sua escolha
 
 
@@ -64,4 +61,22 @@ Você firma contrato com algum dos espíritos fugitivos de Havalheim recebendo a
 
 Escolha 2 magias de 1° Círculo de no máximo dois elementos diferentes
 
-**
+
+
+**Canalização de Espirito**
+
+Usando 1 de NE pode chamar o espirito para ajudar em um teste da forma que ele desejar, caso não o mestre não fale nada em especifico ganha +2 no teste 
+
+  
+
+**Magia atrasada**
+
+ Você pode gastar 2 NE para grudar o selo de uma magia em uma criatura e castar a mesma como ação livre no proximo turno
+  
+**Controle forçado**
+
+Quando estiver caído pode gastar metade de seus NE restantes para dar controle ao espirito até o fim do combate
+
+**Disparo do espirito**
+
+ Você aprende a usar uma magia que não consome NE, disparo feito do elemento do espirito, o disparo de mana causa 1d4 + mente de dano

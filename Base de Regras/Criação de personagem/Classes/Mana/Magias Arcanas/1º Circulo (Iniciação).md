@@ -55,7 +55,7 @@ Melhorado: + 2NE Escolha apenas um alvo, o chão abaixo dele cede e o prende dei
   
 
 #### Congelamento
-Gelo
+**Gelo**
 
   
 
@@ -79,15 +79,8 @@ Cria uma quantidade considerável de magma para fazer um golpe físico, esse gol
 **Lâmina de água**
 **Água**
 
-  
-
+Precisa de conjuração
 Alcance curto
-
-  
-
-precisa de conjuração
-
-  
 
 Cria uma lâmina com água pressurizada para causar um corte, causando 1d4 nos inimigos em um cone de 3M
 
@@ -98,10 +91,7 @@ Cria uma lâmina com água pressurizada para causar um corte, causando 1d4 nos i
 **Natureza**
 
 Alcance curto
-
 Alvo si/1 aliado
-
-  
 
 Você cria várias vinhas para fechar rapidamente os ferimentos de um aliado (ou de si mesmo) adicionando 1d8 + 2 de NV Forçado ao NV do alvo
 
@@ -111,10 +101,7 @@ Você cria várias vinhas para fechar rapidamente os ferimentos de um aliado (ou
 **Natureza**
 
 Alcance curto
-
 Alvo si/1 aliado
-
-  
 
 Você conjura uma armadura de árvores por cima do próprio corpo aumentando sua defesa em 3 e recebendo IP 3 a físico caso não esteja usando armadura
 
@@ -123,10 +110,7 @@ Você conjura uma armadura de árvores por cima do próprio corpo aumentando sua
 **Natureza**
 
 Alcance curto
-
 Alvo si/1 aliado
-
-  
 
 Você conjura uma armadura de árvores por cima do próprio corpo aumentando sua defesa em 3 e recebendo IP 3 a físico caso não esteja usando armadura
 
@@ -136,7 +120,7 @@ Você conjura uma armadura de árvores por cima do próprio corpo aumentando sua
 Alcance corpo a corpo
 Precisa de teste de conjuração
 
-Você toca em um alvo causando 2d6 de dano elétrico no seu alvo
+Você toca em um alvo causando 2d4 de dano elétrico no seu alvo
 
 #### Linha de eletrocussão
 **Raio**

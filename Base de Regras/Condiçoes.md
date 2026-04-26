@@ -98,29 +98,29 @@ São condições provenientes dos elementos, fogo, gelo, trovão, entre outras
 
   
 
-- Em Chamas
+- **Em Chamas**
   Você está atualmente pegando fogo, isso causa 1d6 de dano de fogo por turno até que use uma ação padrão para se apagar
-- Carbonizado
+- **Carbonizado**
   O ferimento que essas queimaduras estão causando é maior, você passa a se tornar vulnerável a dano de fogo e caso suas feridas sejam atingidas recebe 1d6 de dano extra, só pode ser curado por remédios e magias potentes
-- Queimadura Gélida
+- **Queimadura Gélida**
   O gelo está causando queimaduras causando 2d4 de dano de frio por turno durante 1d6 turnos e deixando seus reflexos mais lentos (-2 de reflexos)
+- **Congelado**
+  Reduz o  e o torna vulnerável a dano de impacto além de retardar cura pela metade
 
-- Congelado
+- **Eletrocutado**
 
-- Eletrocutado
+- **Trauma elétrico**
 
-- Trauma elétrico
+- **Queimadura Ácida**
 
-- Queimadura Ácida
+- **Derretido**
 
-- Derretido
-
-- Ofuscado¹
+- **Ofuscado¹**
   Um personagem ofuscado se assemelha a aqueles que foram cegados perdendo parte das suas capacidades de percepção, recebendo -2 em duelo e percepção e se tornando incapaz de ter certeza de um ataque a distancia, sempre que tentar deve rodar 1d4 para ver se acerta seu alvo (4, 3), se acerta algo a escolha do mestre (2) ou erra (1).
 
-- Petrificado
+- **Petrificado**
 
--  Aetérico
+-  **Aetérico**
 
   
 
