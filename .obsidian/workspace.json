@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Invocador"
             }
-          },
-          {
-            "id": "707757b0033a01a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +75,7 @@
             }
           },
           {
-            "id": "8a9f45476c02eff5",
+            "id": "129c036a1d853f93",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -222,15 +207,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "707757b0033a01a9",
+  "active": "710f9c469e9379ec",
   "lastOpenFiles": [
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Guerreiro.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Barbaro.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Ladino.md",
     "Base de Regras/Criação de personagem/Classes/Mana/Invocador.md",
     "conflict-files-obsidian-git.md",
     "Base de Regras/Criação de personagem/Classes/Irregulares/Alquimista/Alquimista.md",
-    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Guerreiro.md",
     "Base de Regras/Criação de personagem/Raças/Humanos.md",
     "Base de Regras/Criação de personagem/Raças/Anões.md",
-    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Ladino.md",
     "Base de Regras/Criação de personagem/Classes/Mana/Mana.md",
     "Base de Regras/Núcleo de jogabilidade.md",
     "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/1º Circulo (Iniciação).md",
@@ -249,7 +235,6 @@
     "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/4º Circulo (Vontade).md",
     "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/3º Circulo (Visão).md",
     "Base de Regras/Equipamento/Armas.md",
-    "Base de Regras/Condiçoes.md",
     "Lore de ruptura/As terras da ruptura Morghal/Organizações alheias",
     "Lore de ruptura/As terras da ruptura Morghal/Os 6 continentes/Castoll O Continente Central/Reinos de Castoll/Hafenlor (o porto dos perdidos)",
     "Lore de ruptura/As terras da ruptura Morghal/Os 6 continentes/Castoll O Continente Central/Reinos de Castoll",

@@ -127,7 +127,7 @@ Amigo Amigável: +3 em todos os testes de espirito, porem o amigo não causa dan
 ## Magias do currículo comum
 Você ganha 3 magias arcanas a sua escolha
 
-%% #### Cura de emergência
+%% Cura de emergência
 Cura 1d4NV de uma de suas invocações pelo custo de 1NE
   
 
