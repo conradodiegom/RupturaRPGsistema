@@ -86,6 +86,11 @@ Eis as funções que suas invocações podem cumprir
 ## Magias do currículo comum
 Você ganha 3 magias arcanas a sua escolha
 
+
+
+
+
+
 %% Cura de emergência
 Cura 1d4NV de uma de suas invocações pelo custo de 1NE
   

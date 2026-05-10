@@ -89,3 +89,9 @@ Salto de devir
 Gaste 2 NE para poder fazer um salto com o dobro do seu deslocamento
 
 **
+
+- Assassino
+
+- Espião
+
+- Arcano
