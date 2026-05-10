@@ -72,18 +72,16 @@ A base de um lutador psíquico, gaste 1 de NE para efetuar uma manobra de combat
 
   
 
-Caminhos do Lutador
+### Caminhos do Lutador
 
-  
-
-Frenético
+#### Frenético
 
 Aproveitar o embalo (primeiro passo)
 Sempre que acertar um ataque pode gastar 2NE para fazer um ataque extra no mesmo alvo (não funciona no ataque extra), caso seja critico pode fazer um extra sem custo
   
   
 
-Habilidades de Lutador
+### **Habilidades de Lutador**
 
   
 
