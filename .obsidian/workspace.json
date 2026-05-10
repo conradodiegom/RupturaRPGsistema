@@ -185,6 +185,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "f067465c2632bb38",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {},
+              "icon": "bar-graph",
+              "title": "Daily Stats"
+            }
           }
         ],
         "currentTab": 5
@@ -208,7 +218,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "d7622dff48644055",
+  "active": "710f9c469e9379ec",
   "lastOpenFiles": [
     "Livro das Bestas/Goblins.md",
     "Livro das Bestas/Template.md",
