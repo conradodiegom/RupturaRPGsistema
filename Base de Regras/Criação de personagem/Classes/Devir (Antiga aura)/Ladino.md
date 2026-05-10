@@ -94,4 +94,15 @@ Gaste 2 NE para poder fazer um salto com o dobro do seu deslocamento
 
 - Espião
 
-- Arcano
+**Ladino Arcano**
+
+Um ladino arcano é versado em magias específicos 
+
+  
+
+**Troca magica** (primeiro passo)
+
+Você ganha 1 magia a sua escolha, feita utilizando um anel ou semelhante 
+
+Sempre que acertar um ataque furtivo vai castar a magia como ação livre e sem custo
+

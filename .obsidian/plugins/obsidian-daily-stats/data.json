@@ -1,6 +1,6 @@
 {
   "dayCounts": {
-    "2026/4/10": 63
+    "2026/4/10": 105
   },
   "todaysWordCount": {
     "Livro das Bestas/Template.md": {
@@ -37,7 +37,7 @@
     },
     "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Ladino.md": {
       "initial": 325,
-      "current": 328
+      "current": 370
     }
   }
 }

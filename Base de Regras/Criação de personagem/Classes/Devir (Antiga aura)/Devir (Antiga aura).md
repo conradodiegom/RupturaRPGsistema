@@ -29,7 +29,7 @@ Lutadores:
 - Frenético
     
 - Prosecutor
-    
+
 
   
 
