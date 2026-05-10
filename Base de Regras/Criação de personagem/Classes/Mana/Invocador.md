@@ -59,18 +59,19 @@ Cada ser invocado, chamaremos os mesmos de Bestas de Mana, são constituídos de
 
 Eis as categorias de bestas de mana utilizadas para criar as mais variadas criaturas
 
-| Categorias | Bonus | Modificadores | Desvantagens |
-| ---------- | ----- | ------------- | ------------ |
-| Insetos    |       |               |              |
-| Aracnideos |       |               |              |
-| Ave        |       |               |              |
-| Mamifero   |       |               |              |
-| Lagarto    |       |               |              |
-| Mistico    |       |               |              |
-| Monstro    |       |               |              |
-| Morto vivo |       |               |              |
+| Categorias   | Bonus                                                                                                                                                                                                                                                                                                              | Desvantagens                                                                        |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| Insetos      | +2 ND, +2 em bloqueio ou esquiva,<br>Deslocamento de voo ou escalada igual ao deslocamento padrão, IP 3 contra corte e perfuração<br><br>- em caso de bloqueio total devolve metade do dano que iria receber (limitado a sua vida maxima), caso seja uma esquiva bem sucedida evita 3/4 do dano ao invés de metade | -3 NV, vulneráveis a fogo e Impacto<br><br>Concedem desvantagem em diplomacia       |
+| Aranhas      | +3 esquiva +2 de percepção ou imunidade a surpreendido caso tenha feito a teia<br><br>- Deslocamento de escalada igual ao deslocamento padrão, habilidade de criar teias, gastando uma ação completa para deixar todos os inimigos em um raio de 6M lentos (Atletismo DT 14 evita)                                 | -2 NV, Vulneráveis a fogo, Impacto, corte<br><br>Concedem desvantagem em diplomacia |
+| Aves         |                                                                                                                                                                                                                                                                                                                    |                                                                                     |
+| Mamifero     |                                                                                                                                                                                                                                                                                                                    |                                                                                     |
+| Crustaceos   |                                                                                                                                                                                                                                                                                                                    |                                                                                     |
+| Lagarto      |                                                                                                                                                                                                                                                                                                                    |                                                                                     |
+| *Mistico     |                                                                                                                                                                                                                                                                                                                    |                                                                                     |
+| *Monstro     |                                                                                                                                                                                                                                                                                                                    |                                                                                     |
+| **Morto vivo |                                                                                                                                                                                                                                                                                                                    |                                                                                     |
 
-
+OBS: escorpiões caem como insetos por conta dos bônus
 
 
 %% Para sua primeira invocação você escolhe uma das 4 opções listadas abaixo, sempre que a criatura morrer pode gastar 2 de NE e uma ação completa para conjurar uma nova, você pode invocar uma quantidade máxima igual a seu atributo de Espirito

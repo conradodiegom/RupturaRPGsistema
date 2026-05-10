@@ -1,11 +1,19 @@
 {
   "dayCounts": {
-    "2026/4/10": 0
+    "2026/4/10": 198
   },
   "todaysWordCount": {
     "Livro das Bestas/Template.md": {
       "initial": 0,
-      "current": 0
+      "current": 60
+    },
+    "Base de Regras/Criação de personagem/Classes/Mana/Invocador.md": {
+      "initial": 887,
+      "current": 1025
+    },
+    "Livro das Bestas/Goblins.md": {
+      "initial": 2,
+      "current": 2
     }
   }
 }
