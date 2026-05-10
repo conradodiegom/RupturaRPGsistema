@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "d7622dff48644055",
+            "id": "3622ade1114e4848",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -214,8 +214,7 @@
       "bases:Criar nova base": false,
       "random-note:Abrir nota aleatória": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "710f9c469e9379ec",
