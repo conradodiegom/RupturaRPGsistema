@@ -25,7 +25,7 @@ A progressão do guerreiro se dá do seguinte modo
 | 2° Nivel               | Instinto de criação ou Instinto de criador, habilidade de classe    |
 | 3° Nivel               | Caminho de gambiarreiro - primeiro passo, habilidade geral, perícia |
 | 4° Nivel               | habil2, habilidade de classe, aprimoramento +5                      |
-| 5° Nivel               | Caminho de guerreiro - segundo passo, +1 em atributo                |
+| 5° Nivel               | Caminho de gambiarreiro - segundo passo, +1 em atributo             |
 | 6° Nivel               |                                                                     |
 | 7° Nivel               |                                                                     |
 | 8° Nivel               |                                                                     |

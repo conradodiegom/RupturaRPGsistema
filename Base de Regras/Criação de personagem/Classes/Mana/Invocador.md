@@ -23,7 +23,7 @@ Proficiente em arco longo
 | Niveis de Invocador |                                                                                               |
 | ------------------- | --------------------------------------------------------------------------------------------- |
 | 1° Nivel            | O Ritual de invocação, Magias do currículo comum                                              |
-| 2° Nivel            |                                                                                               |
+| 2° Nivel            | Reforço Ritualístico, Habilidade de Ritual, habilidade de classe                              |
 | 3° Nivel            | Caminhos do invocador: Entomologista, Estudioso Mistico, Aberrante, Megalomaníaco, Necromante |
 | 4° Nivel            |                                                                                               |
 | 5° Nivel            |                                                                                               |
@@ -57,6 +57,18 @@ Proficiente em arco longo
  **Como suas invocações vem ao mundo** 
 Cada ser invocado, chamaremos os mesmos de Bestas de Mana, são constituídos de 3 pontos muito importantes, a **categoria** no caso em que tipo de criatura a besta de mana se baseia, a **função** o por que essa Besta de Mana foi materializada e por fim **Habilidades** cada grupo tem múltiplas habilidades mas sua besta de mana não pode ter todas elas, porem varias podem se juntar e criar sinergias
 
+Eis as categorias de bestas de mana utilizadas para criar as mais variadas criaturas
+
+| Categorias | Bonus | Modificadores | Desvantagens |
+| ---------- | ----- | ------------- | ------------ |
+| Insetos    |       |               |              |
+| Aracnideos |       |               |              |
+| Ave        |       |               |              |
+| Mamifero   |       |               |              |
+| Lagarto    |       |               |              |
+| Mistico    |       |               |              |
+| Monstro    |       |               |              |
+| Morto vivo |       |               |              |
 
 
 
