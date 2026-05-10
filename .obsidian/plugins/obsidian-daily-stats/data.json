@@ -1,6 +1,6 @@
 {
   "dayCounts": {
-    "2026/4/10": 105
+    "2026/4/10": 150
   },
   "todaysWordCount": {
     "Livro das Bestas/Template.md": {
@@ -29,7 +29,7 @@
     },
     "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Lutador.md": {
       "initial": 381,
-      "current": 379
+      "current": 411
     },
     "Base de Regras/Criação de personagem/Classes/Mana/Redigido.md": {
       "initial": 441,
@@ -37,7 +37,11 @@
     },
     "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Ladino.md": {
       "initial": 325,
-      "current": 370
+      "current": 369
+    },
+    "Base de Regras/Condiçoes.md": {
+      "initial": 1148,
+      "current": 1164
     }
   }
 }

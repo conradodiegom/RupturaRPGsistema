@@ -76,15 +76,10 @@ Caminhos do Lutador
 
   
 
-Capoerista
+Frenético
 
-
-
-  
-  
-
-Malabarismo (primeiro passo)
-
+Aproveitar o embalo (primeiro passo)
+Sempre que acertar um ataque pode gastar 2NE para fazer um ataque extra no mesmo alvo (não funciona no ataque extra), caso seja critico pode fazer um extra sem custo
   
   
 

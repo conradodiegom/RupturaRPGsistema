@@ -20,28 +20,28 @@ Avançar pelos níveis como um ladino lhe mostrará as vantagens de atirar a hon
 
 - Proficiente em uma arma marcial
 
-| Niveis de Guerreiro |                                                                    |     |     |     |
-| ------------------- | ------------------------------------------------------------------ | --- | --- | --- |
-| 1° Nivel            | Foco para batalha, Segura Firme                                    |     |     |     |
-| 2° Nivel            | Aura básica, habilidade de aura, habilidade de classe              |     |     |     |
-| 3° Nivel            | Caminho de guerreiro - primeiro passo, habilidade geral, perícia   |     |     |     |
-| 4° Nivel            | Segunda habilidade de aura, habilidade de classe, aprimoramento +5 |     |     |     |
-| 5° Nivel            | Caminho de guerreiro - segundo passo, +1 em atributo               |     |     |     |
-| 6° Nivel            |                                                                    |     |     |     |
-| 7° Nivel            |                                                                    |     |     |     |
-| 8° Nivel            |                                                                    |     |     |     |
-| 9° Nivel            |                                                                    |     |     |     |
-| 10° Nivel           |                                                                    |     |     |     |
-| 11° Nivel           |                                                                    |     |     |     |
-| 12° Nivel           |                                                                    |     |     |     |
-| 13° Nivel           |                                                                    |     |     |     |
-| 14° Nivel           |                                                                    |     |     |     |
-| 15° Nivel           |                                                                    |     |     |     |
-| 16° Nivel           |                                                                    |     |     |     |
-| 17° Nivel           |                                                                    |     |     |     |
-| 18° Nivel           |                                                                    |     |     |     |
-| 19° Nivel           |                                                                    |     |     |     |
-| 20° Nivel           |                                                                    |     |     |     |
+| Niveis de Ladino |                                                                    |     |     |     |
+| ---------------- | ------------------------------------------------------------------ | --- | --- | --- |
+| 1° Nivel         | Foco para batalha, Segura Firme                                    |     |     |     |
+| 2° Nivel         | Aura básica, habilidade de aura, habilidade de classe              |     |     |     |
+| 3° Nivel         | Caminho de guerreiro - primeiro passo, habilidade geral, perícia   |     |     |     |
+| 4° Nivel         | Segunda habilidade de aura, habilidade de classe, aprimoramento +5 |     |     |     |
+| 5° Nivel         | Caminho de guerreiro - segundo passo, +1 em atributo               |     |     |     |
+| 6° Nivel         |                                                                    |     |     |     |
+| 7° Nivel         |                                                                    |     |     |     |
+| 8° Nivel         |                                                                    |     |     |     |
+| 9° Nivel         |                                                                    |     |     |     |
+| 10° Nivel        |                                                                    |     |     |     |
+| 11° Nivel        |                                                                    |     |     |     |
+| 12° Nivel        |                                                                    |     |     |     |
+| 13° Nivel        |                                                                    |     |     |     |
+| 14° Nivel        |                                                                    |     |     |     |
+| 15° Nivel        |                                                                    |     |     |     |
+| 16° Nivel        |                                                                    |     |     |     |
+| 17° Nivel        |                                                                    |     |     |     |
+| 18° Nivel        |                                                                    |     |     |     |
+| 19° Nivel        |                                                                    |     |     |     |
+| 20° Nivel        |                                                                    |     |     |     |
 
 Oportunista
 
@@ -96,7 +96,7 @@ Gaste 2 NE para poder fazer um salto com o dobro do seu deslocamento
 
 **Ladino Arcano**
 
-Um ladino arcano é versado em magias específicos 
+Um ladino arcano é versado em magias
 
   
 

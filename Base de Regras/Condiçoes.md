@@ -106,21 +106,22 @@ São condições provenientes dos elementos, fogo, gelo, trovão, entre outras
   O gelo está causando queimaduras causando 2d4 de dano de frio por turno durante 1d6 turnos e deixando seus reflexos mais lentos (-2 de reflexos)
 - **Congelado**
   Reduz o  e o torna vulnerável a dano de impacto além de retardar cura pela metade
-
 - **Eletrocutado**
-
+  .
 - **Trauma elétrico**
-
+  .
 - **Queimadura Ácida**
-
+  .
 - **Derretido**
-
+  .
 - **Ofuscado¹**
   Um personagem ofuscado se assemelha a aqueles que foram cegados perdendo parte das suas capacidades de percepção, recebendo -2 em duelo e percepção e se tornando incapaz de ter certeza de um ataque a distancia, sempre que tentar deve rodar 1d4 para ver se acerta seu alvo (4, 3), se acerta algo a escolha do mestre (2) ou erra (1).
-
 - **Petrificado**
-
+  .
 -  **Aetérico**
+   . 
+-  **Necrosado**
+   Necrose te torna mais fragil -2 ND e reduz a efetividade de cura pela metade
 
   
 
