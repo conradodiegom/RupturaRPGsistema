@@ -37,7 +37,7 @@ Os críticos de dado **2d10**
 
 Como tirar 1 ou 10 em ambos os dados é extremamente improvável, no caso de dois 10 saírem como resultado teremos um crítico fantástico, que seria um crítico comum mas contabilizando o dano da arma como 1 passo maior e acerto garantido , em casos de perícias isso seria o equivalente a fazer quase o impossível, ficando a critério do mestre sendo melhor que um acerto crítico padrão
 
-  
+
 
 No caso de dois 1 ser seu resultado, parabéns pela falha insuperável, o padrão é todo o dano que seria causado voltar ao remetente e a arma quebrar ou ficar com a condição [[Base de Regras/Condiçoes.md|Aetérico]]  por 1 rodada, em casos de perícias para rp, é seu plano sair espetacularmente pela culatra, sendo normalmente pior (e mais engraçado) que uma falha miserável padrão
 

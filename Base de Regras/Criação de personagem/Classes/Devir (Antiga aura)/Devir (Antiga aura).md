@@ -24,9 +24,9 @@ Lutadores:
 
 - Capoeirista
     
-- Wrestling
+- Jiujitero
     
-- Taekwondo
+- Frenético
     
 - Prosecutor
     
@@ -46,12 +46,11 @@ Caçadores:
 
 Ladinos:
 
-- Ladrão
-    
 - Assassino
     
 - Espião
-    
+
+- Arcano
 
   
 
@@ -62,7 +61,6 @@ Bárbaros:
 - Carrasco
     
 - Selvagem
-    
 
   
 
@@ -73,6 +71,5 @@ Baluarte:
 - Muralha
     
 - Castelo
-    
 
 **

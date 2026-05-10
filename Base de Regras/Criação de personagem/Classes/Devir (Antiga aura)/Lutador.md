@@ -72,11 +72,13 @@ A base de um lutador psíquico, gaste 1 de NE para efetuar uma manobra de combat
 
   
 
-Caminhos do Guerreiro
+Caminhos do Lutador
 
   
 
-Ás do combate
+Capoerista
+
+
 
   
   

@@ -59,83 +59,29 @@ Cada ser invocado, chamaremos os mesmos de Bestas de Mana, são constituídos de
 
 Eis as categorias de bestas de mana utilizadas para criar as mais variadas criaturas
 
-| Categorias   | Bonus                                                                                                                                                                                                                                                                                                              | Desvantagens                                                                                   |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| Insetos      | +2 ND, +2 em bloqueio ou esquiva,<br>Deslocamento de voo ou escalada igual ao deslocamento padrão, IP 3 contra corte e perfuração<br><br>- em caso de bloqueio total devolve metade do dano que iria receber (limitado a sua vida maxima), caso seja uma esquiva bem sucedida evita 3/4 do dano ao invés de metade | -3 NV, vulneráveis a fogo e Impacto<br><br>Concedem desvantagem em diplomacia                  |
-| Aranhas      | +3 esquiva +2 de percepção ou imunidade a surpreendido caso tenha feito a teia<br><br>- Deslocamento de escalada igual ao deslocamento padrão, habilidade de criar teias, gastando uma ação completa para deixar todos os inimigos em um raio de 6M lentos (Atletismo DT 14 evita)                                 | -2 NV, Vulneráveis a fogo, Impacto, corte<br><br>Concedem desvantagem em diplomacia            |
-| Aves         |                                                                                                                                                                                                                                                                                                                    |                                                                                                |
-| Mamifero     |                                                                                                                                                                                                                                                                                                                    |                                                                                                |
-| Crustaceos   |                                                                                                                                                                                                                                                                                                                    |                                                                                                |
-| Lagarto      |                                                                                                                                                                                                                                                                                                                    |                                                                                                |
-| *Mistico     |                                                                                                                                                                                                                                                                                                                    |                                                                                                |
-| *Monstro     | Todos os bonus de alguma outra categoria além dos seguintes:                                                                                                                                                                                                                                                       |                                                                                                |
-| **Morto vivo | +3 Em uma pericia a sua escolha, ataques tem 10% de chance de causar necrose (tirar 10 em 1d10)<br><br>- Pode ser ressuscitado de forma forçada uma vez caso o invocador não tenha mais poder ritualistico, porém todos os bonus da criatura sofrem -3 incluindo ND, NV e afins                                    | -3 NV, -2 esquiva, Vulneráveis a fogo e luz<br><br>Colocam você na mira do clericato de Ebissu |
+| Categorias   | Bonus                                                                                                                                                                                                                                                                                                              | Desvantagens                                                                                             |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| Insetos      | +2 ND, +2 em bloqueio ou esquiva,<br>Deslocamento de voo ou escalada igual ao deslocamento padrão, IP 3 contra corte e perfuração<br><br>- em caso de bloqueio total devolve metade do dano que iria receber (limitado a sua vida maxima), caso seja uma esquiva bem sucedida evita 3/4 do dano ao invés de metade | -3 NV, vulneráveis a fogo e Impacto<br><br>Concedem desvantagem em diplomacia                            |
+| Aranhas      | +3 esquiva +2 de percepção ou imunidade a surpreendido caso tenha feito a teia<br><br>- Deslocamento de escalada igual ao deslocamento padrão, habilidade de criar teias, gastando uma ação completa para deixar todos os inimigos em um raio de 6M lentos (Atletismo DT 14 evita)                                 | -2 NV, Vulneráveis a fogo, Impacto, corte<br><br>Concedem desvantagem em diplomacia                      |
+| Aves         |                                                                                                                                                                                                                                                                                                                    |                                                                                                          |
+| Mamifero     |                                                                                                                                                                                                                                                                                                                    |                                                                                                          |
+| Crustaceos   |                                                                                                                                                                                                                                                                                                                    |                                                                                                          |
+| Lagarto      |                                                                                                                                                                                                                                                                                                                    |                                                                                                          |
+| *Mistico     |                                                                                                                                                                                                                                                                                                                    |                                                                                                          |
+| *Monstro     | Todos os bonus de alguma outra categoria exceto mistico ou morto vivo) além dos seguintes:<br>+3 de acerto e dano em qualquer ataque, IP 5 a fisico                                                                                                                                                                | Todas as desvantagens da categoria escolhida além das seguintes:<br>Vulnerável a qualquer dano elemental |
+| **Morto vivo | +3 Em uma pericia a sua escolha, ataques tem 10% de chance de causar necrose (tirar 10 em 1d10)<br><br>- Pode ser ressuscitado de forma forçada uma vez caso o invocador não tenha mais poder ritualistico, porém todos os bonus da criatura sofrem -3 incluindo ND, NV e afins                                    | -3 NV, -2 esquiva, Vulneráveis a fogo e luz<br><br>Colocam você na mira do clericato de Ebissu           |
 
 OBS: escorpiões caem como insetos por conta dos bônus
 
+Eis as funções que suas invocações podem cumprir
 
-%% Para sua primeira invocação você escolhe uma das 4 opções listadas abaixo, sempre que a criatura morrer pode gastar 2 de NE e uma ação completa para conjurar uma nova, você pode invocar uma quantidade máxima igual a seu atributo de Espirito
 
-Os blocos de característica
-
-#### O Rápido
-NV: 6
-Deslocamento 12M
-Pode usar Esquiva e Aparar +3
-ND 14
-
-##### Escolha 1 dos ataques a seguir
-ataque duplo
-Da dois golpes rápidos (Que podem atingir alvos diferentes) que causam 1d4 + 2 de dano físico (escolha o tipo entre corte, perfuração ou impacto)
-
-ataque preciso
-Desfere um golpe em alta velocidade em apenas um inimigo causando 1d6 + 3 de dano físico (escolha o tipo entre corte, perfuração ou impacto) esse ataque pode ser escolhido como ataque a distancia
-
-#### O comum
-NV: 10
-Deslocamento 9M
-Pode usar Esquiva +1
-ND 12
-##### Escolha 1 dos ataques a seguir
-ataque básico
-Da um ataque padrão que causam 1d8 + 2 de dano físico (escolha o tipo entre corte, perfuração ou impacto)
-
-ataque atordoante
-Desfere um golpe pesado causando 1d6 + 2 de dano físico (escolha o tipo entre corte, perfuração ou impacto) esse ataque causa atordoamento (DT 15 evita)
-
-O Resistente
-NV: 14
-Deslocamento 6M
-Pode usar Bloqueio +3
-ND 16
-
-##### Escolha 1 dos ataques a seguir
-ataque pesado
-Gasta a ação completa e desfere um ataque pesado que causam 1d10 + 2 de dano físico (escolha o tipo entre corte, perfuração ou impacto)
-
-ataque defensivo
-Ataca um inimigo que tenha atingido um aliado 1d4 + 2 de dano físico (escolha o tipo entre corte, perfuração ou impacto) e pela defesa seu aliado recebe + 3 RD físico
-
-Deslocamento especial
-Escolha um tipo de deslocamento especial para sua invocação, caso seja rápida ganha 9M se for comum ganha 6m se for resistente ganha 3M
-Pode escolher entre Voo, Escalada, Escavação ou nado
-
-Habilidades Passivas
-Escolha 1 dessas habilidades
-
-Amigo montável: você pode montar na sua invocação ganhando +3 de acerto em ataques a distancia
-
-Amigo escandaloso: Sempre que alguém atacar seu invocador recebe o dano no lugar dele
-
-Amigo instável: Seu amigo pode explodir causando 1/4 da sua vida total como dano
-
-Amigo charmoso: Pode fazer um teste de artes para receber um item ou valor simbólico dos bolsos de quem vê seu amigo
-
-Amigo da bolsa: Sempre que invoca um amigo ele vem com uma arma improvisada que pode usar como ação de movimento causa 1d4 de dano sendo corpo a corpo ou a distancia
-
-Amigo ranzinza: Ganha mais 6 de NV mas todo teste baseado em espirito recebe -3 (Pra cada criatura)
-
-Amigo Amigável: +3 em todos os testes de espirito, porem o amigo não causa dano %%
+| Funcão     | Atributos | Ataques | Habilidades |
+| ---------- | --------- | ------- | ----------- |
+| Combatente |           |         |             |
+| Defensor   |           |         |             |
+| Explorador |           |         |             |
+| Curandeiro |           |         |             |
 
 ## Magias do currículo comum
 Você ganha 3 magias arcanas a sua escolha

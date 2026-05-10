@@ -32,9 +32,7 @@ Druidas
     
 - Bestial
     
--
-Protegido
-    
+- Protegido
 
   
 
@@ -47,6 +45,6 @@ Invocadores
 - Megafauna
     
 - Místicos
-    
+
 
 **

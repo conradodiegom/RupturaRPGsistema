@@ -1,6 +1,6 @@
 {
   "dayCounts": {
-    "2026/4/10": 277
+    "2026/4/10": 60
   },
   "todaysWordCount": {
     "Livro das Bestas/Template.md": {
@@ -9,11 +9,31 @@
     },
     "Base de Regras/Criação de personagem/Classes/Mana/Invocador.md": {
       "initial": 887,
-      "current": 1104
+      "current": 712
     },
     "Livro das Bestas/Goblins.md": {
       "initial": 2,
       "current": 2
+    },
+    "Base de Regras/Núcleo de jogabilidade.md": {
+      "initial": 2220,
+      "current": 2220
+    },
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Devir (Antiga aura).md": {
+      "initial": 46,
+      "current": 46
+    },
+    "Base de Regras/Criação de personagem/Classes/Mana/Mana.md": {
+      "initial": 26,
+      "current": 26
+    },
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Lutador.md": {
+      "initial": 381,
+      "current": 379
+    },
+    "Base de Regras/Criação de personagem/Classes/Mana/Redigido.md": {
+      "initial": 441,
+      "current": 441
     }
   }
 }
