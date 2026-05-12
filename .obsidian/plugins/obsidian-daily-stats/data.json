@@ -1,6 +1,6 @@
 {
   "dayCounts": {
-    "2026/4/10": 150
+    "2026/4/10": 185
   },
   "todaysWordCount": {
     "Livro das Bestas/Template.md": {
@@ -42,6 +42,18 @@
     "Base de Regras/Condiçoes.md": {
       "initial": 1148,
       "current": 1164
+    },
+    "Livro das Bestas/Guahan/Untitled.md": {
+      "initial": 1,
+      "current": 1
+    },
+    "Livro das Bestas/Guahan/Aracnideos.md": {
+      "initial": 0,
+      "current": 0
+    },
+    "Livro das Bestas/Guahan/Monstros.md": {
+      "initial": 56,
+      "current": 91
     }
   }
 }

@@ -11,14 +11,12 @@
             "id": "710f9c469e9379ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Lutador.md",
-                "mode": "source",
-                "source": false
+                "path": "Base de Regras/Criação de personagem/Classes/Devotos/Devotos"
               },
               "icon": "lucide-file",
-              "title": "Lutador"
+              "title": "Devotos"
             }
           }
         ]
@@ -75,7 +73,7 @@
             }
           },
           {
-            "id": "79f168eb4779bd86",
+            "id": "6f9f91d0b9c9bd17",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -219,34 +217,35 @@
   },
   "active": "710f9c469e9379ec",
   "lastOpenFiles": [
-    "Base de Regras/Condiçoes.md",
-    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Lutador.md",
-    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Ladino.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/1º Circulo (Iniciação).md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Druida.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Invocador.md",
-    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Devir (Antiga aura).md",
-    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Baluarte.md",
-    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Caçador.md",
-    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Barbaro.md",
-    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Guerreiro.md",
-    "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Criação de golens.md",
-    "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Progressão do Gambiarreiro.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Redigido.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Mana.md",
-    "Base de Regras/Núcleo de jogabilidade.md",
+    "Base de Regras/Criação de personagem/Classes/Devotos/Devotos/Devotos.md",
+    "Base de Regras/Criação de personagem/Classes/Devotos/Conceito de Éter.md",
+    "Base de Regras/Criação de personagem/Classes/Devotos/Devotos",
+    "Base de Regras/Criação de personagem/Classes/Devotos/Devotos/Testemunhos de mirathys.md",
     "Livro das Bestas/Guahan/Guahan.md",
-    "Livro das Bestas/Guahan",
-    "Livro das Bestas/Livro das Bestas.md",
     "Livro das Bestas/Crias de dragão/Crias de dragão.md",
+    "Livro das Bestas/Livro das Bestas.md",
+    "Base de Regras/Base de Regras.md",
+    "Lore de ruptura/Lore de ruptura.md",
+    "Livro das Bestas/Template.md",
     "Livro das Bestas/Goblins.md",
     "Livro das Bestas/Dragões.md",
     "Livro das Bestas/Crias de dragão/Kobolds.md",
+    "Livro das Bestas/Guahan/Aracnideos.md",
+    "Livro das Bestas/Guahan/Monstros.md",
+    "Base de Regras/Criação de personagem/Raças/Humanos.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/1º Circulo (Iniciação).md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Guerreiro.md",
+    "Base de Regras/Equipamento/Armas.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Invocador.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Redigido.md",
+    "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Criação de golens.md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Druida.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Lutador.md",
+    "Base de Regras/Condiçoes.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Ladino.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Devir (Antiga aura).md",
+    "Livro das Bestas/Guahan",
     "Livro das Bestas/Crias de dragão",
-    "Base de Regras/Criação de personagem/Raças/Minotauros.md",
-    "Base de Regras/Regras do Combate.md",
-    "Livro das Bestas/Template.md",
-    "Base de Regras/Criação de personagem/Poderes/O que são os poderes.md",
     "Lore de ruptura/As terras da ruptura Morghal/Organizações alheias",
     "Lore de ruptura/As terras da ruptura Morghal/Os 6 continentes/Castoll O Continente Central/Reinos de Castoll/Hafenlor (o porto dos perdidos)",
     "Lore de ruptura/As terras da ruptura Morghal/Os 6 continentes/Castoll O Continente Central/Reinos de Castoll",
@@ -254,7 +253,6 @@
     "Lore de ruptura/As terras da ruptura Morghal/Os 6 continentes/Farendale As terras esquecidas",
     "Lore de ruptura/As terras da ruptura Morghal/Os 6 continentes/Elydia Terras de Ybaria",
     "Lore de ruptura/As terras da ruptura Morghal/Os 6 continentes/Azahan O local de impacto",
-    "Lore de ruptura/As terras da ruptura Morghal/Os 6 continentes/Cerull o grande azul",
     "Base de Regras/Criação de personagem/Untitled.canvas"
   ]
 }
