@@ -22,7 +22,29 @@ Perícias: Escolha Duelo, Fortitude, e 3 + mente a sua escolha
 
 Proficiente em uma arma marcial
 
-  
+| Niveis de --- |                                                                              |
+| ------------- | ---------------------------------------------------------------------------- |
+| 1° Nivel      | Habilidade base 1, Habilidade base 2                                         |
+| 2° Nivel      | Habilidade Especifica, Sub Habilidade Especifica, habilidade de classe       |
+| 3° Nivel      | Caminho de --- primeiro passo, habilidade geral, perícia                     |
+| 4° Nivel      | Ramificação da Habilidade especifica, habilidade de classe, aprimoramento +5 |
+| 5° Nivel      | Caminho de --- segundo passo, +1 em atributo                                 |
+| 6° Nivel      |                                                                              |
+| 7° Nivel      |                                                                              |
+| 8° Nivel      |                                                                              |
+| 9° Nivel      |                                                                              |
+| 10° Nivel     |                                                                              |
+| 11° Nivel     |                                                                              |
+| 12° Nivel     |                                                                              |
+| 13° Nivel     |                                                                              |
+| 14° Nivel     |                                                                              |
+| 15° Nivel     |                                                                              |
+| 16° Nivel     |                                                                              |
+| 17° Nivel     |                                                                              |
+| 18° Nivel     |                                                                              |
+| 19° Nivel     |                                                                              |
+| 20° Nivel     |                                                                              |
+
 
 Fúria
 
@@ -42,13 +64,7 @@ Físico não natural
 
 Você ganha +4 de armadura e IP cortante e perfurante 2, além disso tem +2 em testes contra manobras de combate, se tiver sem armadura
 
-  
-
-Habilidade base da força
-
-  
-
-Aura básica
+#### **Fluxo de Devir**
 
   
 

@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6c47faf2f9b1a412",
+        "id": "3dc7393a05c5a7e4",
         "type": "tabs",
         "children": [
           {
-            "id": "710f9c469e9379ec",
+            "id": "4f918d85abd07e31",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Lore de ruptura"
+                "file": "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Lutador.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Lore de ruptura"
+              "title": "Lutador"
             }
           }
         ]
@@ -450,26 +452,6 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "29fd085b3aad4869",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7b7e0c9733815ff6",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_4bf9b9585b0a",
-                "id": "ID_e9dbca0b3869",
-                "parent": "ID_d99b0a390a89"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -490,12 +472,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a64eff12c79dbc25",
+  "active": "4f918d85abd07e31",
   "lastOpenFiles": [
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Ladino.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Guerreiro.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Barbaro.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Baluarte.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Caçador.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Lutador.md",
+    "Base de Regras/Criação de personagem/Classes/Progressão dos niveis (Template).md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Conceito do Devir.md",
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Devir (Antiga aura).md",
+    "Base de Regras/Criação de personagem/Classes/Irregulares/Irregulares.md",
+    "Base de Regras/Regras do Combate.md",
+    "Base de Regras/Base de Regras.md",
     "Lore de ruptura/Lore de ruptura.md",
     "Base de Regras/Núcleo de jogabilidade.md",
     "Sem título.canvas",
-    "Base de Regras/Regras do Combate.md",
     "Base de Regras/Condiçoes.md",
     "Base de Regras/Criação de personagem/Criação de personagem.md",
     "Base de Regras/Criação de personagem/Origens.md",
@@ -508,17 +501,6 @@
     "Base de Regras/Criação de personagem/Poderes/Poderes de Conflito.md",
     "Base de Regras/Criação de personagem/Poderes/O que são os poderes.md",
     "Base de Regras/Equipamento/Economia em Ruptura.md",
-    "Base de Regras/Equipamento/Melhorias e Materiais.md",
-    "Base de Regras/Removed.md",
-    "Base de Regras/Equipamento/Artefatos/Artefatos.md",
-    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Devir (Antiga aura).md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Mana.md",
-    "Base de Regras/Equipamento/Equipamento.md",
-    "Base de Regras/Criação de personagem/Raças/Gnomos.md",
-    "Base de Regras/Criação de personagem/Raças/Elfos.md",
-    "Base de Regras/Criação de personagem/Raças/Delsgaes.md",
-    "Base de Regras/Criação de personagem/Raças/Bird Folk.md",
-    "Base de Regras/Criação de personagem/Raças/Beast Folk.md",
     "Base de Regras/Criação de personagem/Classes/Devotos/Devotos",
     "Livro das Bestas/Guahan",
     "Livro das Bestas/Crias de dragão",

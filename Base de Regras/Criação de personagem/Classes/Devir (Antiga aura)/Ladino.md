@@ -57,13 +57,8 @@ Ataque na surdina
 
 Caso esteja em furtividade (inimigo desprevenido) pode gastar 2NE para fazer um ataque furtivo, que causa 1d6 de dano extra e tem -2 na margem de ameaça
 
-  
 
-Habilidade base da força
-
-  
-
-Devir básico
+#### **Fluxo de Devir**
 
   
 

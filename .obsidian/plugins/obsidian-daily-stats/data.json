@@ -1,32 +1,41 @@
 {
   "dayCounts": {
     "2026/4/10": 185,
-    "2026/4/13": 66
+    "2026/4/13": 66,
+    "2026/4/14": 120
   },
   "todaysWordCount": {
-    "Base de Regras/Equipamento/Armas.md": {
-      "initial": 856,
-      "current": 856
-    },
-    "Base de Regras/Equipamento/Armaduras.md": {
-      "initial": 383,
-      "current": 383
-    },
-    "Base de Regras/Núcleo de jogabilidade.md": {
-      "initial": 2220,
-      "current": 2045
-    },
-    "Base de Regras/Removed.md": {
-      "initial": 151,
-      "current": 213
-    },
     "Base de Regras/Regras do Combate.md": {
-      "initial": 519,
-      "current": 520
+      "initial": 520,
+      "current": 524
     },
-    "Base de Regras/Condiçoes.md": {
-      "initial": 1167,
-      "current": 1170
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Caçador.md": {
+      "initial": 293,
+      "current": 388
+    },
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Guerreiro.md": {
+      "initial": 905,
+      "current": 906
+    },
+    "Base de Regras/Criação de personagem/Classes/Progressão dos niveis (Template).md": {
+      "initial": 81,
+      "current": 83
+    },
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Baluarte.md": {
+      "initial": 382,
+      "current": 400
+    },
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Barbaro.md": {
+      "initial": 377,
+      "current": 374
+    },
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Lutador.md": {
+      "initial": 490,
+      "current": 486
+    },
+    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Ladino.md": {
+      "initial": 370,
+      "current": 366
     }
   }
 }

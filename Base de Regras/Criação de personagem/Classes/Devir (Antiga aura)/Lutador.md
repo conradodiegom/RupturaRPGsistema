@@ -22,7 +22,29 @@ Perícias: Escolha Duelo, Fortitude ou Reflexos, e 3 a sua escolha
 
 Proficiente em socos
 
-  
+| Niveis de --- |                                                                              |
+| ------------- | ---------------------------------------------------------------------------- |
+| 1° Nivel      | Habilidade base 1, Habilidade base 2                                         |
+| 2° Nivel      | Habilidade Especifica, Sub Habilidade Especifica, habilidade de classe       |
+| 3° Nivel      | Caminho de --- primeiro passo, habilidade geral, perícia                     |
+| 4° Nivel      | Ramificação da Habilidade especifica, habilidade de classe, aprimoramento +5 |
+| 5° Nivel      | Caminho de --- segundo passo, +1 em atributo                                 |
+| 6° Nivel      |                                                                              |
+| 7° Nivel      |                                                                              |
+| 8° Nivel      |                                                                              |
+| 9° Nivel      |                                                                              |
+| 10° Nivel     |                                                                              |
+| 11° Nivel     |                                                                              |
+| 12° Nivel     |                                                                              |
+| 13° Nivel     |                                                                              |
+| 14° Nivel     |                                                                              |
+| 15° Nivel     |                                                                              |
+| 16° Nivel     |                                                                              |
+| 17° Nivel     |                                                                              |
+| 18° Nivel     |                                                                              |
+| 19° Nivel     |                                                                              |
+| 20° Nivel     |                                                                              |
+
 
 Físico Treinado
 
@@ -45,30 +67,27 @@ Escolha 2 manobras de combate, você pode executar as mesmas com um bônus de +2
 Habilidade base da força
 
   
+#### **Fluxo de Devir**
 
-Aura básica
-
-  
-
-Você aprende o básico da manipulação de aura podendo gastar 1 NE para envolver seu ataque em aura simples causando 1d4 de dano extra, você pode escolher uma das habilidades abaixo
+Você aprende o básico da manipulação de aura podendo gastar 1 NE para envolver seu ataque em aura simples causando 1d4 de dano de devir extra
 
   
 
-Concentração de aura
+**Concentração de devir**
 
 Sua aura flui mais facilmente, você pode gastar +1 NE para aumentar em +1d4 o dano
 
   
 
-Estouro de aura
+**Estouro de devir**
 
 Quando acerta um inimigo pode gastar 2 NE para estourar a aura presente no golpe, peça um teste de fortitude, caso falhe toma 1d6 de dano e fica atordoado, caso passe toma metade do dano
 
   
 
-Mãos de aura
+**Mãos de devir**
 
-A base de um lutador psíquico, gaste 1 de NE para efetuar uma manobra de combate em um inimigo em alcance curto
+A base de um lutador *psíquico*, gaste 1 de NE para efetuar uma manobra de combate em um inimigo em alcance curto
 
   
 

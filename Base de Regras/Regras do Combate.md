@@ -21,7 +21,7 @@ Ações livres: Falar (mas não muito), ações simples a ponto de não precisam
 
   
 
-### Aparar
+### Aparar (Reflexos)
 
   
 
@@ -29,14 +29,14 @@ Você pode usar sua arma/broquel para aparar um ataque corpo a corpo, faça um t
 
   
 
-### Esquivar
+### Esquivar (Reflexos)
 
   
 
 Você pode tentar esquivar de um ataque, faça um teste de reflexos contra o acerto do adversário, caso passe toma apenas metade do dano total (em caso de crítico não toma dano algum)
 
   
-### Bloquear
+### Bloquear (Fortitude)
 
   
 
@@ -44,7 +44,7 @@ Você pode usar sua resistência corporal (e escudo caso tenha um) para bloquear
 
   
 
-### Contra atacar
+### Contra atacar (Duelo)
 
   
 
