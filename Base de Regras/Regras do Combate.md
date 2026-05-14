@@ -1,3 +1,6 @@
+---
+sticker: emoji//2694-fe0f
+---
 <center><h1>Ações em combate</h1></center>
 
 O padrão em ruptura é que em seus turnos cada jogador tenha um ação padrão e uma ação rápida e quantas ações livres precisar, e quando não é seu turno o mesmo tem direito a 1 reação de defesa (Fazer um teste de resistência não conta nesse limite)
@@ -18,23 +21,22 @@ Ações livres: Falar (mas não muito), ações simples a ponto de não precisam
 
   
 
-Aparar
+### Aparar
 
   
 
-Você pode usar sua arma/broquel para aparar um ataque corpo a corpo, faça um teste de reflexos cujo a dt é o resultado do acerto do inimigo + 2(Em caso de crítico ainda pode desferir um ataque contra o inimigo ), caso seja bem sucedido anula completamente o dano do ataque e reduz a defesa do inimigo em 1, caso falhe toma 1,5x o dano original do ataque
+Você pode usar sua arma/broquel para aparar um ataque corpo a corpo, faça um teste de reflexos cujo a DT é o resultado do acerto do inimigo + 2(Em caso de crítico ainda pode desferir um ataque contra o inimigo ), caso seja bem sucedido anula completamente o dano do ataque e reduz a defesa do inimigo em 1, caso falhe toma 1,5x o dano original do ataque
 
   
 
-Esquivar
+### Esquivar
 
   
 
 Você pode tentar esquivar de um ataque, faça um teste de reflexos contra o acerto do adversário, caso passe toma apenas metade do dano total (em caso de crítico não toma dano algum)
 
   
-
-Bloquear
+### Bloquear
 
   
 
@@ -42,7 +44,7 @@ Você pode usar sua resistência corporal (e escudo caso tenha um) para bloquear
 
   
 
-Contra atacar
+### Contra atacar
 
   
 
@@ -54,7 +56,7 @@ Ao ser atacado e o inimigo errar o ataque pode fazer um ataque contra o mesmo
 
   
 
-Investida: Você pode realizar uma ação completa e deslocar-se o dobro da sua velocidade de deslocamento para mover-se em linha reta. Após deslocar-se, realize um ataque de Duelo – para cada 3 metros movidos, adicione +1D ao dano, Porém, você se tornará vulnerável até o começo do seu próximo turno.
+**Investida:** Você pode realizar uma ação completa e deslocar-se o dobro da sua velocidade de deslocamento para mover-se em linha reta. Após deslocar-se, realize um ataque de Duelo – para cada 3 metros movidos, adicione +1D ao dano, Porém, você se tornará vulnerável até o começo do seu próximo turno.
 
   
 

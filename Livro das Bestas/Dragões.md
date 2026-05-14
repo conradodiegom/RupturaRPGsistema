@@ -1,3 +1,3 @@
 ---
-sticker: lucide//file
+sticker: lucide//file-text
 ---

@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Base de Regras/Criação de personagem/Classes/Devotos/Devotos"
+                "path": "Lore de ruptura"
               },
               "icon": "lucide-file",
-              "title": "Devotos"
+              "title": "Lore de ruptura"
             }
           }
         ]
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "6f9f91d0b9c9bd17",
+            "id": "a64eff12c79dbc25",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -193,13 +193,287 @@
               "icon": "bar-graph",
               "title": "Daily Stats"
             }
+          },
+          {
+            "id": "1a470c9e9c9f6f8a",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "ed3bbbf3c973185c",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "6dfb8bb2263387a8",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "fe1e5b3ac3f28a0b",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "0657f91279fc40c6",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_4bf9b9585b0a",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 1,
+                    "month": 11,
+                    "year": 2723
+                  },
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 18,
+                    "month": 7,
+                    "year": 2723
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "hideEra": false,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_9869ba59ba0b"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "35624230515b9df5",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_4bf9b9585b0a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 18,
+                    "month": 7,
+                    "year": 2723
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "hideEra": false,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_6aab586869f9"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "66e4573daa13c631",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_4bf9b9585b0a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 18,
+                    "month": 7,
+                    "year": 2723
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "hideEra": false,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_ba6bbb38bb18"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "6e65807d44010756",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_4bf9b9585b0a",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 2717
+                  },
+                  "viewState": 2,
+                  "displaying": {
+                    "day": -4,
+                    "month": 0,
+                    "year": 2717
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "hideEra": false,
+                  "displayAbsoluteYear": true,
+                  "displayMoons": true,
+                  "displayWeeks": false,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_98d9194ae9ba"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "b5b822bc95428877",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "349112e473bc6f18",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "abb82f581ba2341c",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "fd3c996d9f579d23",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "c7797e8f910d438a",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "ef027d9c98232af5",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "2ef33d4e466311aa",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "d74dbd815374538b",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "5b88aed2ff020885",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "29fd085b3aad4869",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b7e0c9733815ff6",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_4bf9b9585b0a",
+                "id": "ID_e9dbca0b3869",
+                "parent": "ID_d99b0a390a89"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,38 +486,40 @@
       "bases:Criar nova base": false,
       "random-note:Abrir nota aleatória": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "710f9c469e9379ec",
+  "active": "a64eff12c79dbc25",
   "lastOpenFiles": [
-    "Base de Regras/Criação de personagem/Classes/Devotos/Devotos/Devotos.md",
-    "Base de Regras/Criação de personagem/Classes/Devotos/Conceito de Éter.md",
-    "Base de Regras/Criação de personagem/Classes/Devotos/Devotos",
-    "Base de Regras/Criação de personagem/Classes/Devotos/Devotos/Testemunhos de mirathys.md",
-    "Livro das Bestas/Guahan/Guahan.md",
-    "Livro das Bestas/Crias de dragão/Crias de dragão.md",
-    "Livro das Bestas/Livro das Bestas.md",
-    "Base de Regras/Base de Regras.md",
     "Lore de ruptura/Lore de ruptura.md",
-    "Livro das Bestas/Template.md",
-    "Livro das Bestas/Goblins.md",
-    "Livro das Bestas/Dragões.md",
-    "Livro das Bestas/Crias de dragão/Kobolds.md",
-    "Livro das Bestas/Guahan/Aracnideos.md",
-    "Livro das Bestas/Guahan/Monstros.md",
-    "Base de Regras/Criação de personagem/Raças/Humanos.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Magias Arcanas/1º Circulo (Iniciação).md",
-    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Guerreiro.md",
-    "Base de Regras/Equipamento/Armas.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Invocador.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Redigido.md",
-    "Base de Regras/Criação de personagem/Classes/Irregulares/Gambiarreiro/Criação de golens.md",
-    "Base de Regras/Criação de personagem/Classes/Mana/Druida.md",
-    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Lutador.md",
+    "Base de Regras/Núcleo de jogabilidade.md",
+    "Sem título.canvas",
+    "Base de Regras/Regras do Combate.md",
     "Base de Regras/Condiçoes.md",
-    "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Ladino.md",
+    "Base de Regras/Criação de personagem/Criação de personagem.md",
+    "Base de Regras/Criação de personagem/Origens.md",
+    "Base de Regras/Criação de personagem/Pericias.md",
+    "Base de Regras/Equipamento/Armaduras.md",
+    "Base de Regras/Equipamento/Armas.md",
+    "Base de Regras/Criação de personagem/Poderes/Poderes de Anomalia.md",
+    "Base de Regras/Criação de personagem/Poderes/Poderes de Sobrevivência.md",
+    "Base de Regras/Criação de personagem/Poderes/Poderes de Utilidade.md",
+    "Base de Regras/Criação de personagem/Poderes/Poderes de Conflito.md",
+    "Base de Regras/Criação de personagem/Poderes/O que são os poderes.md",
+    "Base de Regras/Equipamento/Economia em Ruptura.md",
+    "Base de Regras/Equipamento/Melhorias e Materiais.md",
+    "Base de Regras/Removed.md",
+    "Base de Regras/Equipamento/Artefatos/Artefatos.md",
     "Base de Regras/Criação de personagem/Classes/Devir (Antiga aura)/Devir (Antiga aura).md",
+    "Base de Regras/Criação de personagem/Classes/Mana/Mana.md",
+    "Base de Regras/Equipamento/Equipamento.md",
+    "Base de Regras/Criação de personagem/Raças/Gnomos.md",
+    "Base de Regras/Criação de personagem/Raças/Elfos.md",
+    "Base de Regras/Criação de personagem/Raças/Delsgaes.md",
+    "Base de Regras/Criação de personagem/Raças/Bird Folk.md",
+    "Base de Regras/Criação de personagem/Raças/Beast Folk.md",
+    "Base de Regras/Criação de personagem/Classes/Devotos/Devotos",
     "Livro das Bestas/Guahan",
     "Livro das Bestas/Crias de dragão",
     "Lore de ruptura/As terras da ruptura Morghal/Organizações alheias",

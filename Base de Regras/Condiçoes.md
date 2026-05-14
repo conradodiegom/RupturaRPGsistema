@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f922
+---
 ## Condições físicas: 
 São condições provenientes do meio físico contra o próprio físico normalmente causadas por armas e ataques dos mais variados, ou também de péssimas escolhas, podendo ser condições de paralisia, lesão, ou doença
 
@@ -25,7 +28,7 @@ São condições provenientes do meio físico contra o próprio físico normalme
   Assim como inconsciente mas causada por um ferimento fatal, pode levar a perda do personagem, você toma 1d6 de dano por rodada, caso passe em uma DT 15 ou igual ao valor negativo de NV (o que for maior) com um teste de fortitude para de tomar o dano e fica inconsciente até alguém o estabilizar com magia ou Medicina
   — — — — — — // — — — — — — — — — // — — — — — — — — — // — — — — — —
 - **Sangramento**
-  Toma 1d4 de dano todo turno magia de cura ou teste de medicina para a condição
+  Toma 1d4 de dano todo turno magia de cura ou teste de medicina para a condição (pode ser empilhado)
   — — — — — — // — — — — — — — — — // — — — — — — — — — // — — — — — —
 - **Hemorragia**
   Toma 1d10 de dano todo turno, só pode ser parado por magia ou remédios e poções específicos

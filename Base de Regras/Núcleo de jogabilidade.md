@@ -6,11 +6,11 @@ As regras que regem o mundo, no papel
 
   
 <h1><center>
-Sets de Dados:</center></h1>
+Os de Dados:</center></h1>
 
   
 
-Ruptura pode ser jogado com 2 sets de dados diferentes, sendo eles os 2d10 que são o padrão esperado para ruptura por serem mais estáveis ou também com o clássico D20 para uma experiência mais comum, isso normalmente é decidido no inicio da primeira sessão e será mantido pelo resto da campanha a decisão se aplica para todos os jogadores da mesa
+Ruptura utiliza 2d10 como dados padrão para ruptura, sendo relativamente estáveis e fazem com que o pensamento critico sobressaia 
 
   
 
@@ -40,35 +40,6 @@ Como tirar 1 ou 10 em ambos os dados é extremamente improvável, no caso de doi
 
 
 No caso de dois 1 ser seu resultado, parabéns pela falha insuperável, o padrão é todo o dano que seria causado voltar ao remetente e a arma quebrar ou ficar com a condição [[Base de Regras/Condiçoes.md|Aetérico]]  por 1 rodada, em casos de perícias para rp, é seu plano sair espetacularmente pela culatra, sendo normalmente pior (e mais engraçado) que uma falha miserável padrão
-
-  
-
-## - O D20
-    
-
- O dado padrão do rpg, seguindo as regras padrão da maioria dos rpgs
-
- Em casos de <font color="#9bbb59">vantagem</font>, um dado é adicionado, pegando assim o maior resultado entre os dois dados lançados  
-
-EX: Os dois dados são lançados culminando em um **17** e um **11** o resultado da rolagem é 17
-
-  
-
- Em casos de <font color="#c00000">desvantagem</font>, um dado é adicionado, pegando assim o menor resultado entre os dois dados lançados  
-
-EX: Os dois dados são lançados culminando em um **17** e um **11** o resultado da rolagem é **11**
-
-  
-
-Os críticos de dado D20
-
-  
-
-Caso um 20 natural seja atingido, isso culminará em um crítico 2X com acerto garantido, caso o ataque já fosse um crítico, aumenta o dano em um passo e garante acerto garantido
-
-  
-
-Caso um 1 seja atingido ele se comporta como uma falha miserável comum
 
   
 
@@ -110,11 +81,11 @@ Os valores aqui mostrados são exemplos, adapte de acordo com a mesa
 
   
 
-Fácil 15
+Fácil 13
 
   
 
-Médio 20
+Médio 19
 
   
 
@@ -122,7 +93,7 @@ Difícil 25
 
   
 
-Desafiador 30
+Desafiador 31
 
   
 
@@ -188,9 +159,9 @@ No 14° nível aprimore uma quantidade de perícias que tenham bônus de +7 igua
   
 A DT é o valor que define quanto é necessário para passar em um teste, diversas habilidades vão solicitar a DT de certa perícia do player, chegando ao seguinte cálculo:
 
-Nível + Treinamento na Perícia + Atributo da perícia + Condição de Descanso + Extras
+Nível + Bônus na pericia + Condição de Descanso + Extras
 
-Fazendo esse cálculo chegaremos a dt para o teste, para facilitar vejamos um exemplo:
+Fazendo esse cálculo chegaremos a DT para o teste, para facilitar vejamos um exemplo:
 
   
 Um bárbaro usa sua habilidade Grito de Guerra fazendo assim com que seja necessário um teste de vontade contra sua DT de intimidação, esse bárbaro é de nível 3, Tem +5 de treinamento em intimidação e 2 espírito, ele está revigorado pois acabou de descansar em uma boa taverna e não possui a habilidade de anomalia aberração
@@ -282,7 +253,7 @@ Regras variam
 
   
 
-Para descobrir seus atributos, você rola 2d6 e distribui entre seus 4 atributos: Corpo, Mente, Celeridade e Espírito. O número representa o seu nível naquele atributo.
+Para descobrir seus atributos, você rola 2d6 e distribui entre seus 4 atributos: Corpo, Mente, Celeridade e Espírito. O número representa o seu nível naquele atributo. ou pode escolhe um 3, um 2 e dois 1
 
   
 
@@ -524,21 +495,21 @@ A ação descanso é afetada pelo local do descanso, podendo ser dividida em 5 e
 - Ruim
     
 
- Dormir em um saco de dormir, ou em uma cama desconfortável, uma comida seca de viagem, você ganha NV e NE iguais a um Xd4 + (Corpo para NV e Mente para NE) e baixa a sua condição de cansaço em um, até no máximo preparado
+ Dormir em um saco de dormir, ou em uma cama desconfortável, uma comida seca de viagem, você ganha NV e NE iguais a um Xd4 (X = *nível/2*) + (Corpo para NV e Mente para NE) e baixa a sua condição de cansaço em um, até no máximo preparado
 
   
 
 - Normal
     
 
- Um saco de dormir em um acampamento, uma cama aceitável, uma taverna com uma comida legal isso é um descanso aceitável você ganha NV e NE iguais a um Xd8 + (Corpo para NV e Mente para NE) e fica descansado (+ 1 em bônus de coisas que levem condição de descanso em consideração)
+ Um saco de dormir em um acampamento, uma cama aceitável, uma taverna com uma comida legal isso é um descanso aceitável você ganha NV e NE iguais a um Xd8 (X = *nível/2*) + (Corpo para NV e Mente para NE) e fica descansado (+ 1 em bônus de coisas que levem condição de descanso em consideração)
 
   
 
 - Boa
     
 
-Uma cama confortável, uma taverna com uma comida incrível isso é um descanso de verdade você ganha NV e NE iguais a um Xd10 + 2*(Corpo para NV e Mente para NE) e fica revigorado (+ 3 em bônus de coisas que levem condição de descanso em consideração)
+Uma cama confortável, uma taverna com uma comida incrível isso é um descanso de verdade você ganha NV e NE iguais a um Xd10 (X = *nível*)  + 2*(Corpo para NV e Mente para NE) e fica revigorado (+ 3 em bônus de coisas que levem condição de descanso em consideração)
 
   
 
